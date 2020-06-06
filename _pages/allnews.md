@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Giovannelli Lab at University of Naples 'Federico II'"
+excerpt: "Joy Buongiorno, Earth and Planets Laboratory, Carnegie Institution for Science'"
 sitemap: false
 permalink: /allnews.html
 ---
