@@ -1,0 +1,34 @@
+- name: Matteo Selci
+  photo: ms.jpg
+  duration: Jan 2018 - Feb 2019
+  info: Diversity of microbial communities in the sediment of the Adriatic Sea
+  role: MSc student in Marine Biology
+  collab: Dr. Elena Manini, CNR-IRBIM, Prof. Calra Vignaroli UNIVPM
+  number_educ: 1
+  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche
+  education2: BSc Biology, Polytechnic University of Marche
+  education3:
+  education4:
+
+- name: Marco Basili
+  photo: mb.jpg
+  duration: Feb 2018 - Feb 2019
+  info: Microbial diversity on marine plastic litter
+  role: MSc student in Marine Biology
+  collab: Dr. Elena Manini, CNR-IRBIM, Dr. Grazia Quero SZN, Prof. Calra Vignaroli UNIVPM
+  number_educ: 1
+  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche
+  education2: BSc Biology, Polytechnic University of Marche
+  education3:
+  education4:
+
+- name: Maria Magliulo
+  photo: mm.jpg
+  duration: Jun 2017 - Sept 2018
+  info: Microbial diversity in Ross Sea Antarctic waters
+  role: MSc student in Marine Biology
+  collab: Prof. Angelina Cordone, UNINA
+  number_educ: 1
+  education1: MSc Marine Biology, University of Naples "Federico II"
+  education2: BSc Biology, University of Naples "Federico II"
+  education3:
