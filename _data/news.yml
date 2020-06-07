@@ -1,4 +1,3 @@
-
 - date: 25. Oct 2019
   headline: "I shared my research at the final <a href='https://deepcarbon.net/index.php/deep-carbon-2019-decade-discovery-and-road-map-future'>international Deep Carbon Observatory </a> meeting in Washington DC, USA and participated in discussions about the future of Deep Carbon science"
 
@@ -6,8 +5,9 @@
 - date: 24-28. June 2019
   headline: "Attended AbSciCon in Seattle! So much exciting research. NASA announced their plans to fund the Titan "rover" Dragonfly, which is actually a <a href='https://www.npr.org/2019/09/17/760649353/meet-the-nuclear-powered-self-driving-drone-nasa-is-sending-to-a-moon-of-saturn'>dual rotar quadrocopter</a>! 
   
+  
 - date: 18. February 2019
-  headline: "Sampling hot springs in the Argentinian Andes plateau (Catamarca Province). Awesome sights--and microbes--to behold above 4,000 m elevation! <img src='/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/newspic/in_field.jpg' class='img-responsive' style='max-width: 192px' /><br/>"
+  headline: "Sampling hot springs in the Argentinian Andes plateau (Catamarca Province). Awesome sights--and microbes--to behold above 4,000 m elevation! <img src='/{{ site.url }}{{ site.baseurl }}/images/newspic/in_field.jpg' class='img-responsive' style='max-width: 192px' /><br/>"
 
 - date: 27. October 2018
-	headline: "Today, I very excitedly accepted a position to be a postdoc working on a NASA Astrobiology Institute project. I will be working in Washington, D.C. with an amazing group of researchers at Carnegie Institute who are using big data 💻 to interrogate the co-evolution between the biosphere (life 🌱🐜🐠🐻) and geosphere (Earth 🌏 and its varied environments).
+	headline: "Today, I very excitedly accepted a position to be a postdoc working on a NASA Astrobiology Institute project. I will be working in Washington, D.C. with an amazing group of researchers at Carnegie Institute who are using big data to interrogate the co-evolution between the biosphere (life) and geosphere (Earth and its varied environments).
