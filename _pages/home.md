@@ -5,20 +5,9 @@ excerpt: "Website of the Joy Buongiorno at Carnegie Institution for Science. My 
 sitemap: false
 permalink: /
 ---
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/jb_suit.jpg){: style="width: 100%; float: center; border: 2px"}
 
 I am a postdoctoral researcher at the [Earth and Planets Laboratory at Carnegie Institution for Science](https://dtm.carnegiescience.edu/). I was recently hired as an Assistant Professor of Environmental Biology at Maryville College in the [Divison of Natural Sciences](https://www.maryvillecollege.edu/academics/divisions/natural-sciences/). To understand the mutual interactions between microorganisms and their surroundings, harnesses the power of an interdisciplinary approach, briding the divide between the fields of Earth and Life science. This exciting work allows me to investigate the relationships between microorganisms and their environment in some of the most extreme environments on Earth, including boiling hot springs, energy-starved, deeply buried marine sediments, Arctic sediments, Antarctic permafrost, and high-altitude hypersaline lakes. 
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/jb_suit.jpg){: style="width: 100%; float: center; border: 10px"}
-
-I am an environmental geomicrobiologist working on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/) at the [Earth and Planets Laboratory at Carnegie Institution for Science](https://dtm.carnegiescience.edu/). I was recently hired as an Assistant Professor of Environmental Biology at Maryville College in the [Divison of Natural Sciences](https://www.maryvillecollege.edu/academics/divisions/natural-sciences/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support resilient, just, and sustainable Arctic in motion. I'm also a lead instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiemtns from the lab to the computer. 
-
-I received my B.Sc. in Biology (2011) from Tennessee Technlogical University. I received my M.Sc. in Geoscience (2014) and Ph.D. in Microbiology from the University of Tennessee, Knoxville. I began my postdoctoral appointment under the co-advisement of Dr. Robert Hazen and Dr. Donato Giovannelli in 2019.
-
-My academic journey may have seemed disjointed -- going from zoology, to geology, to microbiology. Independently, each of these fields do in fact use very different tools and have unique perspectives to offer. My inexhaustible curiously about nature and our place in space drove me to each of these fields. I'm a interdisciplinarian and understand that the marriage of knowledge gained from each discipline leads us to answer bigger questions about our universe than each discipline could answer alone.
-
-I combine my background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, bioinformatics tools, and imaging techniques to delve into the interactions between the biosphere and geosphere that make life thrive in some of the harshest, uninhabitable environments. By combining results from wet-lab and in silico experiments, her work provides a holistic understanding of microbial activity in systems characterized by different geochemical regimes. Clues into how life shaped Earth's environments and vice versa are hypothesized to be written in the DNA of ancient microbial lineages and the rock record. It's my job to uncover these clues, and unlock the secrets to how life can perhaps evolve on other planets. My field sites include the western coast of Svalbard, Antarctic permafrost, hypersaline lakes in the high Andes mountains and hot springs in the Andean Altiplano. 
-
-I am large supporter of open science and the removal of paywalls between science and the people who fund it. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
@@ -77,6 +66,17 @@ I am large supporter of open science and the removal of paywalls between science
   </a>
 </div>
 
+I am an environmental geomicrobiologist working on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/) at the [Earth and Planets Laboratory at Carnegie Institution for Science](https://dtm.carnegiescience.edu/). I was recently hired as an Assistant Professor of Environmental Biology at Maryville College in the [Divison of Natural Sciences](https://www.maryvillecollege.edu/academics/divisions/natural-sciences/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support resilient, just, and sustainable Arctic in motion. I'm also a lead instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
+
+I received my B.Sc. in Biology (2011) from Tennessee Technlogical University. I received my M.Sc. in Geoscience (2014) and Ph.D. in Microbiology from the University of Tennessee, Knoxville. I began my postdoctoral appointment under the co-advisement of Dr. Robert Hazen and Dr. Donato Giovannelli in 2019.
+
+My academic journey may have seemed disjointed -- going from zoology, to geology, to microbiology. Independently, each of these fields do in fact use very different tools and have unique perspectives to offer. My inexhaustible curiously about nature and our place in space drove me to each of these fields. I'm a interdisciplinarian and understand that the marriage of knowledge gained from each discipline leads us to answer bigger questions about our universe than each discipline could answer alone.
+
+I combine my background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, bioinformatics tools, and imaging techniques to delve into the interactions between the biosphere and geosphere that make life thrive in some of the harshest, uninhabitable environments. By combining results from wet-lab and in silico experiments, her work provides a holistic understanding of microbial activity in systems characterized by different geochemical regimes. Clues into how life shaped Earth's environments and vice versa are hypothesized to be written in the DNA of ancient microbial lineages and the rock record. It's my job to uncover these clues, and unlock the secrets to how life can perhaps evolve on other planets. My field sites include the western coast of Svalbard, Antarctic permafrost, hypersaline lakes in the high Andes mountains and hot springs in the Andean Altiplano. 
+
+I am large supporter of open science and the removal of paywalls between science and the people who fund it. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
+
+
 ### Dedication to practicing allyship
 
 Despite many programs, grants, and workshops aimed at increasing recruitment and retention of people of color in STEM fields, representation of scholars of color is [woefully lacking] (https://academic.oup.com/bioscience/article/70/3/237/5714639). Dismantling the centries-old system that allows this to continue requires concerted and unapologetic efforts to decolonize science. This task falls on [administrators](https://www.chronicle.com/article/How-Higher-Ed-Can-Fight/248897?fbclid=IwAR3fxenrOTlDqy_AxFH7I0XqhVagVf2sn1UQ3TirqcOhTidb5RAf2zsQqBQ), [granting agencies](https://www.chronicle.com/article/Black-Scientists-Face-a-Big/248921?cid=wcontentlist_hp_latest), [educators](http://www.ascd.org/publications/newsletters/education-update/oct19/vol61/num10/How-to-Be-an-Antiracist-Educator.aspx), and [professional societies](https://www.ams.org/journals/notices/201802/rnoti-p149.pdf).
@@ -93,9 +93,7 @@ I am grateful for past and present funding from the [Deep Carbon Observatory](ht
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
-<img src="/{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.png" style="width: 130px">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.png" style="width: 130px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSOP.jpg" style="width: 130px">
-</figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GSA.png" style="width: 130px">
 </figure>
