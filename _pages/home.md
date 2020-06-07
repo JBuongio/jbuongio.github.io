@@ -66,7 +66,7 @@ I am a postdoctoral researcher at the [Earth and Planets Laboratory at Carnegie 
   </a>
 </div>
 
-I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net)[NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/).
+I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net), [NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/).
 
 
 
