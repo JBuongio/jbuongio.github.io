@@ -8,6 +8,8 @@ permalink: /
 
 I am a postdoctoral researcher at the [Earth and Planets Laboratory at Carnegie Institution for Science](https://dtm.carnegiescience.edu/). I was recently hired as an Assistant Professor of Environmental Biology at Maryville College in the [Divison of Natural Sciences](https://www.maryvillecollege.edu/academics/divisions/natural-sciences/). To understand the mutual interactions between microorganisms and their surroundings, harnesses the power of an interdisciplinary approach, briding the divide between the fields of Earth and Life science. This exciting work allows me to investigate the relationships between microorganisms and their environment in some of the most extreme environments on Earth, including boiling hot springs, energy-starved, deeply buried marine sediments, Arctic sediments, Antarctic permafrost, and high-altitude hypersaline lakes. 
 
+**[Google Scholar](https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao)**
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -19,38 +21,39 @@ I am a postdoctoral researcher at the [Earth and Planets Laboratory at Carnegie 
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>                
+        <li data-target="#carousel" data-slide-to="8"></li>    
+        <li data-target="#carousel" data-slide-to="8"></li>            
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg" alt="Slide 1" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/glacier.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/iceberg-pretty2.jpg" alt="Slide 2" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/boat.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" alt="Slide 3" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/walrus3_orig.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" alt="Slide 4" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/LN.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" alt="Slide 5" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/salina.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fumaroles.jpg" alt="Slide 6" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/fumaroles.jpg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" alt="Slide 7" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/Altiplano.jpg" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" alt="Slide 8" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/Andes.jpg" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting.jpg" alt="Slide 9" />
+            <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/slider7001400/DCO_meeting.jpg" alt="Slide 9" />
         </div>               
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -65,13 +68,15 @@ I am a postdoctoral researcher at the [Earth and Planets Laboratory at Carnegie 
 
 I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net)[NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/).
 
+
+
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
-	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.jpeg" style="width: 130px">
+  <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/logopic/DCO.png" style="width: 90px">
+	<img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/logopic/NASA.png" style="width: 90px">
+  <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/logopic/C-DEBI.png" style="width: 90px">
+<img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/logopic/SEPM.png" style="width: 130px">
 </figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSOP.jpeg" style="width: 130px">
+<img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/logopic/TSOP.jpg" style="width: 130px">
 </figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GSA.jpeg" style="width: 130px">
+  <img src="/Users/jaltom/Documents/GitHub/Sites/website/jbuongio.github.io/images/logopic/GSA.png" style="width: 130px">
 </figure>
