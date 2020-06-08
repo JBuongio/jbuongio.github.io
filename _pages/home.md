@@ -20,7 +20,7 @@ I am a postdoctoral researcher at the [Earth and Planets Laboratory at Carnegie 
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li>    
-        <li data-target="#carousel" data-slide-to="8"></li>            
+        <li data-target="#carousel" data-slide-to="9"></li>            
     </ol>
 
     <!-- Items -->
