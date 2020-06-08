@@ -5,9 +5,8 @@
 
 - date: 28 September, 2019
   headline: "Volunteered with First Light <a href='https://case.carnegiescience.edu/student-programs/first-light/'>CASE<a/>. 
-  <video width="480" height="320" controls="controls">
-  <source src="/images/newspic/First_Light.mp4" type="video/mp4">
-</video>
+  <img src='/images/newspic/First_Light.jpg' style='max-width: 192px' /><br/>"
+
     
 - date: 24-28 June, 2019
   headline: "Attended AbSciCon in Seattle! So much exciting research. NASA announched their plans for the Titan rover, Dragonfly, which is actually a <a href='https://www.npr.org/2019/09/17/760649353/meet-the-nuclear-powered-self-driving-drone-nasa-is-sending-to-a-moon-of-saturn'> dual rotor quadrocopter </a>!"
