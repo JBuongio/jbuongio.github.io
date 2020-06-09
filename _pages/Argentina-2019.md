@@ -6,11 +6,7 @@ sitemap: false
 permalink: /Argentina-2019/
 ---
 
-**NASA Astrobiology Early Career Collaboration Award**
-
-**Follow-up Report**
-
-Dr. Joy Buongiorno, Geophysical Laboratory, Carnegie Institute for Science
+**Dr. Joy Buongiorno, Geophysical Laboratory, Carnegie Institute for Science**
 
 **Project Title:** The coevolution of microbial communities and their geologic environments
 
