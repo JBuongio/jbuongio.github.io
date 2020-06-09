@@ -159,17 +159,17 @@ Best Practices in Teaching Pedagogy course 2016
 
 **Guest lectures**
 
-Department of Microbiology; Bioinformatics course, Metatranscriptomics and MAGs Fall 2019
+Univ. of TN, Department of Microbiology; Bioinformatics course, Metatranscriptomics and MAGs Fall 2019
 
-Division of Biology; Cellular and Molecular Biology course, Energy and Enzymes Fall2016
+Univ. of TN, Division of Biology; Cellular and Molecular Biology course, Energy and Enzymes Fall2016
 
-Department of Earth and Planetary Sciences; Earth, Life, and Time course, Fossil records Spring 2014
+Univ. of TN, Department of Earth and Planetary Sciences; Earth, Life, and Time course, Fossil records Spring 2014
 
 **Teaching Experience**
 
 Software Carpentry Workshop Dec. 2017
 
-Division of Biology Graduate Teaching Assistant, Univ. of TN, Knoxville 2014-2015
+<ins>Division of Biology Graduate Teaching Assistant, Univ. of TN, Knoxville 2014-2015</ins>
 
 _Organization/Function of the Cell_
 
@@ -181,7 +181,7 @@ _Biodiversity and Evolution_ June2013
 
 _Scientific Thinking_ June 2014
 
-Earth and Planetary Sciences Dept., Univ. of TN, Knoxville 2012-2014
+<ins>Earth and Planetary Sciences Dept., Univ. of TN, Knoxville 2012-2014</ins>
 
 _Historical Geology_
 
@@ -189,7 +189,7 @@ _Environmental Geology_
 
 _Paleobiology_
 
-Biology Dept., TN Technological Univ., Cookeville 2009-2011
+<ins>Biology Dept., TN Technological Univ., Cookeville 2009-2011</ins>
 
 _General Biology II_
 
