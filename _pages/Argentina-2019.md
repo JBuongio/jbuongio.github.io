@@ -26,12 +26,12 @@ During a single week, we sampled 12 geothermally active sites spanning hundreds 
 **Above:** Hot spring overlooking salt flat in the Puna region of Argentina. Elevation 4300 m above sea level. <br>**Below** Dr. Buongiorno filtering water at Incachule hot spring for hydrocarbon analysis.
 
 <br>
-  <img src='/images/blogpic/Group_strat.png' style="width: 40%; float: left;' /><br/> <img src='/images/blogpic/Joy-TJ.png' style="width: 40%; float: right;' /><br/>
+  <img src='/images/blogpic/Group_strat.png' style="width: 40%; align: "center";' /><br/> <img src='/images/blogpic/Joy-TJ.png' style="width: 40%; align = "center"' /><br/>
 
 
  **Above:** Developing the sampling strategy for a hot spring fringed with microbial mats and mineral precipitates. **Below:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.
  
-<img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center" /><br/>
+<img src='/images/blogpic/Group-photo.png' style="width: 40%; align: "center";' /><br/>
 
 The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez,
 
