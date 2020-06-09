@@ -33,10 +33,8 @@ During a single week, we sampled 12 geothermally active sites spanning hundreds 
 **Above:** Developing the sampling strategy for a hot spring fringed with microbial mats and mineral precipitates. <br>
  
 <img src='/images/blogpic/Joy-TJ.png' style="width: 40%; float: center;" /><br/>
-**Above:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.
+**Above:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.<br>
  
 <img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center;" /><br/>
 
-**Above:**The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez,
-
-Dr. Gerdhard Jessen, Dr. Joy Buongiorno, Dr. Karen Lloyd, Dr. Agostina Chiodi, Emice Bustos.
+**Above:**The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez, Dr. Gerdhard Jessen, Dr. Joy Buongiorno, Dr. Karen Lloyd, Dr. Agostina Chiodi, Emice Bustos.
