@@ -35,7 +35,7 @@ During a single week, we sampled 12 geothermally active sites spanning hundreds 
 <img src='/images/blogpic/Joy-TJ.png' style="width: 40%; float: center;" /><br/>
 **Above:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.
  
-<img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center;"' /><br/>
+<img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center;" /><br/>
 
 **Above:**The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez,
 
