@@ -21,17 +21,17 @@ The reciprocal feedbacks between microorganisms and their environment have gover
 During a single week, we sampled 12 geothermally active sites spanning hundreds of kilometers across the Andean backarc of Argentina. With few roads to guide us, we relied on reports from locals to locate our sites, which ranged from hot springs whose fringes were beautifully ornamented with orange microbial mats and iron precipitates to HOT (90&deg;C) fumaroles bubbling out noxious gases to be avoided. Laboratory analysis is already underway on these samples, the results of which will inform our understanding of how microbial communities and their trace metal utilization potentially change in accordance with deep subsurface properties.
 
 <br>
-  <img src='/images/blogpic/Argentina-2019.png' style="width: 40%; float: left' /><br/> <img src='/images/blogpic/Joy-samples.png' style="width: 40%; float: right' /><br/>
+  <img src='/images/blogpic/Argentina-2019.png' style="width: 40%; float: left;' /><br/> <img src='/images/blogpic/Joy_samples.png' style="width: 40%; float: right;' /><br/>
 
 **Left:** Hot spring overlooking salt flat in the Puna region of Argentina. Elevation 4300 m above sea level. **Right** Dr. Buongiorno filtering water at Incachule hot spring for hydrocarbon analysis.
 
-![](RackMultipart20200609-4-1utb4xu_html_9966fd7613165491.gif)
+<br>
+  <img src='/images/blogpic/Group_strat.png' style="width: 40%; float: left;' /><br/> <img src='/images/blogpic/Joy-TJ.png' style="width: 40%; float: right;' /><br/>
 
-![](RackMultipart20200609-4-1utb4xu_html_54c0e3fc4c2d95fc.gif)
 
-![](RackMultipart20200609-4-1utb4xu_html_33a636daf9666b18.gif) **Top:** Developing the sampling strategy for a hot spring fringed with microbial mats and mineral precipitates. **Bottom:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.
-
-![](RackMultipart20200609-4-1utb4xu_html_b7a029f49995405c.gif)
+ **Left:** Developing the sampling strategy for a hot spring fringed with microbial mats and mineral precipitates. **Right:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.
+ 
+<img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center" /><br/>
 
 The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez,
 
