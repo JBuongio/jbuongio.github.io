@@ -5,7 +5,9 @@ excerpt: "Joy Buongiorno -- CV"
 sitemap: false
 permalink: /cv/
 ---
-![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)Curriculum Vitae Joy Buongiorno (Altom)
+![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)Curriculum Vitae 
+
+Joy Buongiorno (Altom)
 
 5251 Broad Branch Rd NW, Washington, DC 20015
 
