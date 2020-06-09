@@ -7,7 +7,7 @@ permalink: /Argentina-2019/
 ---
 
 <p align = "center" > <b>Dr. Joy Buongiorno <br>
- Geophysical Laboratory, Carnegie Institution for Science, Washington, DC</p></b>
+ Geophysical Laboratory, Carnegie Institution for Science, Washington, DC</b></p>
 
 <p align = "center"><b>Collaboration on Deep Carbon Observatory project,<br> "Biology Meets Subduction"</b></p>
 
