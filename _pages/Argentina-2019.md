@@ -17,22 +17,24 @@ The reciprocal feedbacks between microorganisms and their environment have gover
 During a single week, we sampled 12 geothermally active sites spanning hundreds of kilometers across the Andean backarc of Argentina. With few roads to guide us, we relied on reports from locals to locate our sites, which ranged from hot springs whose fringes were beautifully ornamented with orange microbial mats and iron precipitates to HOT (90&deg;C) fumaroles bubbling out noxious gases to be avoided. Laboratory analysis is already underway on these samples, the results of which will inform our understanding of how microbial communities and their trace metal utilization potentially change in accordance with deep subsurface properties.
 
 <br><p align = "center">
-  <img src='/images/blogpic/Argentina-2019.png' style="width: 40%; float: center;" /><br/> 
+  <img src='/images/blogpic/Argentina-2019.png' style="width: 40%; float: center;" /><br/> </p>
   
-**Above:** Hot spring overlooking salt flat in the Puna region of Argentina. Elevation 4300 m above sea level. <br>
- <img src='/images/blogpic/Joy_samples.png' style="width: 40%; float: center;"/><br/>
- 
- **Above** Dr. Buongiorno filtering water at Incachule hot spring for hydrocarbon analysis.<br>
+<p align = "center">**Above:** Hot spring overlooking salt flat in the Puna region of Argentina. Elevation 4300 m above sea level. <br></p>
 
-<img src='/images/blogpic/Group_strat.png' style="width: 40%; float: center;" /><br/> 
+<p align = "center"> <img src='/images/blogpic/Joy_samples.png' style="width: 40%; float: center;"/><br/></p>
+ 
+<p align = "center"> **Above** Dr. Buongiorno filtering water at Incachule hot spring for hydrocarbon analysis.<br></p>
+
+<p align = "center"><img src='/images/blogpic/Group_strat.png' style="width: 40%; float: center;" /><br/></p> 
   
-**Above:** Developing the sampling strategy for a hot spring fringed with microbial mats and mineral precipitates. <br>
+<p align = "center">**Above:** Developing the sampling strategy for a hot spring fringed with microbial mats and mineral precipitates. <br></p>
  
-<img src='/images/blogpic/Joy-TJ.png' style="width: 40%; float: center;" /><br/>
-**Above:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.<br>
- 
-<img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center;" /><br/>
+<p align = "center"><img src='/images/blogpic/Joy-TJ.png' style="width: 40%; float: center;" /><br/></p>
 
-**Above:**The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez, Dr. Gerdhard Jessen, Dr. Joy Buongiorno, Dr. Karen Lloyd, Dr. Agostina Chiodi, Emice Bustos.
+<p align = "center">**Above:** Dr. Buongiorno and TJ Rogers (PhD student) aliquoting water samples for microbiological analysis.<br></p>
+ 
+<p align = "center"><img src='/images/blogpic/Group-photo.png' style="width: 40%; float: center;" /><br/></p>
+
+<p align = "center">**Above:**The team of scientists, students, and field assistants. From clockwise from left: Dr. Donato Giovanelli, Dr. Peter Barry, Dr. Matt Schrenk, Dr. Maarten DeMoor, Ruben Filipovich, Dr. Karen Lloyd, Carlos Ramirez, Dr. Gerdhard Jessen, Dr. Joy Buongiorno, Dr. Karen Lloyd, Dr. Agostina Chiodi, Emice Bustos.
 </p>
 </p>
