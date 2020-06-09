@@ -9,8 +9,6 @@ permalink: /cv/
 
 5251 Broad Branch Rd NW, Washington, DC 20015
 
-+1 (615) 521-4356
-
 jbuongiorno@carnegiescience.edu
 
 **Education and Professional Experience**
