@@ -5,8 +5,7 @@ excerpt: "Joy Buongiorno -- CV"
 sitemap: false
 permalink: /cv/
 ---
-
-![](RackMultipart20200609-4-2u8faa_html_110a81ce6820044b.gif)Curriculum Vitae Joy Buongiorno (Altom)
+![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)Curriculum Vitae Joy Buongiorno (Altom)
 
 5251 Broad Branch Rd NW, Washington, DC 20015
 
@@ -38,7 +37,7 @@ International Geobiology Course graduate 2015
 
 _In Press,_ Morrison, S.M., **Buongiorno, J.** , Downs, R.T., Eleish, A., Fox, P., Giovannelli, D., Golden, J.T., Hummer, D.R., Hystad, G., Kellogg, L.H., Kreylos, O., Krivovichev, S., Liu, C., Merdith, A., Prabhu, A., Ralph, J., Runyon, S., Zahirovic, S., Hazen, R.M., Visualizing carbon mineral systems: Recent advances in C mineral evolution, mineral ecology, and network analysis. (_Frontiers in Earth Science_).
 
-_Under Review_, Lloyd, K.G., Bird, J.T., **Buongiorno, J.** , Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T., Slow population turnover rates of uncultured archaea and bacteria in marine sediments. _Applied and Environmental Microbiology_. Pre-print:: Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments. bioRxiv. doi: [https://doi.org/10.1101/2020.03.24.005512](https://doi.org/10.1101/2020.03.24.005512)
+_Under Review_, Lloyd, K.G., Bird, J.T., **Buongiorno, J.** , Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T., Slow population turnover rates of uncultured archaea and bacteria in marine sediments. _Applied and Environmental Microbiology_. Pre-print:: Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments. Pre-print:: bioRxiv. doi: [https://doi.org/10.1101/2020.03.24.005512](https://doi.org/10.1101/2020.03.24.005512)
 
 _Accepted,_ Nayfach, S., Roux, S., … IMG/M Data Consortium. A Genomic Catalogue of Earth&#39;s Microbiomes. _Nature Biotechnology._
 
@@ -46,7 +45,7 @@ _In preparation,_ **Buongiorno, J.,** Giovannelli, D., Morrison, S., Hazen, R., 
 
 _Submitted_, **Buongiorno J**., Wasmund K., Loy A., Lloyd K.G., Woeseiales transcriptional response in Arctic fjord surface sediment (PlosOne). Pre-print:: bioRxiv doi: [https://doi.org/10.1101/2020.06.04.134015](https://doi.org/10.1101/2020.06.04.134015).
 
-Fullerton, K. M., Schrenk, M., Yucel, M., Manini, E., Marco, B., Rogers, T. J., **Buongiorno, J.** … Lloyd, K. (2019, October 13). Plate tectonics drive deep biosphere microbial community structure. https://doi.org/10.31223/osf.io/gyr7n
+_Under Review_, Fullerton, K. M., Schrenk, M., Yucel, M., Manini, E., Marco, B., Rogers, T. J., **Buongiorno, J.** … Lloyd, K. (2019, October 13). Plate tectonics drive deep biosphere microbial community structure. Pre-print:: EarthRxiv doi: [https://doi.org/10.31223/osf.io/gyr7n](https://doi.org/10.31223/osf.io/gyr7n) (_Nature_).
 
 Co-signatory: Next generation of polar researchers agree on three priorities (2019). Nature, 570(36). doi: 10.1038/d41586-019-01718-1. Outcome of the Next Generation of Polar Researchers Leadership Symposium (https://dornsife.usc.edu/conferences/2019-nsf-ngpr3/).
 
@@ -340,6 +339,5 @@ Spring Hill Elem., Knox Co., TN 2014
 
 Algood Elem., Putman Co., TN 2011
 
-
-<br />
-<br />
+</br>
+</br>
