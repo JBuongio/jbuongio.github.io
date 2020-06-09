@@ -269,33 +269,21 @@ International Society of Microbial Ecology (ISME)
 
 **Recent Synergistic Activities and Service**
 
-Conference convener, Goldschmidt 2020 June 2020
+<ins>Conference convener</ins>
 
-06i Harnessing Multidimensionality in Complex, Co-evolving Earth Systems
-
+Goldschmidt 2020 June 2020 - 06i Harnessing Multidimensionality in Complex, Co-evolving Earth Systems; 
 11e Recognizing Preserved Microbial Signatures in Modern and Ancient Environments
 
-Peer reviewer
+<ins>Peer reviewer, Journals</ins> - Applied and Environmental Biology; Microbiome; mSystems; International Society of Microbial Ecology Journal (ISME J); Microbial Ecology.<br><br>
 
-Applied and Environmental Biology
+<ins>Peer reviewer, Granting agencies</ins> - Review panelist, Joint Genome Institute April 2020; Review panelist, NASA Exobiology April 2020; Review panelist, NSF Antarctic Organisms and Ecosystems Jan. 2020; _Ad hoc_ reviewer, NSF Office of Polar Programs June 2019.
 
-Microbiome
-
-mSystems
-
-International Society of Microbial Ecology Journal
-
-Review panelist, Joint Genome Institute April 2020
-
-Review panelist, NASA Exobiology April 2020
-
-Review panelist, NSF Antarctic Organisms and Ecosystems Jan. 2020
-
-_Ad hoc_ reviewer, NSF Office of Polar Programs June 2019
 
 East TN Freedom Schools Summer 2018
 
 Producer of Scientific Programming/Volunteer Coordinator
+<br><br>
+<ins>Service to the community</ins>
 
 500 Women Scientists
 
