@@ -96,7 +96,7 @@ I am grateful for past and present funding from the [Deep Carbon Observatory](ht
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.png" style="width: 130px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSOP.jpg" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GSA.png" style="width: 130px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.png" style="width: 90px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSOP.jpg" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GSA.png" style="width: 90px">
 </figure>
