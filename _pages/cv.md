@@ -5,13 +5,13 @@ excerpt: "Joy Buongiorno -- CV"
 sitemap: false
 permalink: /cv/
 ---
-![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)Curriculum Vitae 
+![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)<p align="center"><ins>Curriculum Vitae </ins></p>
 
-Joy Buongiorno (Altom)
+<p align="center"><b>Joy Buongiorno (Altom)</b><br>
 
 5251 Broad Branch Rd NW, Washington, DC 20015
 
-jbuongiorno@carnegiescience.edu
+jbuongiorno@carnegiescience.edu</p>
 
 **Education and Professional Experience**
 
