@@ -86,7 +86,7 @@ As a STEM professional, I believe building my toolkit of allyship is an integral
 <a href='https://jbuongio.github.io/pdfs/Anti-racism_in_STEM_Academia_Self_Education_Resources.pdf'>Anti-racism in STEM & Academia Self Education Resources</a> by Aurora Roth, Kathleen McKee, Naomi Ochwat, and Anna Simpson. 
 <br>
  
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/safe_zone.png){: style="width: 100%; float: center; border: 3px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/safe_zone.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font>
 
 I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net), [NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/).
 
