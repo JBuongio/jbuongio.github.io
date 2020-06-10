@@ -1,17 +1,14 @@
 ---
-title: "Giovannelli Lab - Publications"
+title: "Joy Buongiorno - Field Photos"
 layout: gridlay
-excerpt: "Giovannelli Lab -- Publications."
+excerpt: "Joy Buongiorno - Field Photos"
 sitemap: false
-permalink: /publications/
+permalink: /field_photos/
 ---
 
 
-# Publications
+# Field Photos
 
-Jump at the bottom of the page to see a [full list of publications](#full-list), our [Preprints](#preprints), [Book chapters](#books-and-book-chapters) and [Patents](#patents). A complete list is also available in my [Google Scholar](https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en)) profile.
-
-## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -25,7 +22,7 @@ Jump at the bottom of the page to see a [full list of publications](#full-list),
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <pubtit>Laguna Negra, high Andes Mountains, Argentina</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }}. {{ publi.year }}. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
