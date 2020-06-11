@@ -6,7 +6,7 @@ sitemap: false
 permalink: /cv/
 ---
 ![](RackMultipart20200609-4-1273asn_html_110a81ce6820044b.gif)
-<p align="center"><ins>Curriculum Vitae </p></ins>
+<ins><p align="center">Curriculum Vitae </p></ins>
 
 <p align="center"><b>Joy Buongiorno (Altom)</b><br>
 
