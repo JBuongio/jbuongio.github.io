@@ -9,6 +9,6 @@ permalink: /LN_pictures/
 
 #### Photos from the field and under the petrographic microscope:
 
-{% for gallery in site.data.piclist %}
+{% for piclist in site.data.piclist %}
 - [{{ piclist.description }}]({{ piclist.title }})
 {% endfor %}
