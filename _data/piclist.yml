@@ -78,8 +78,8 @@
   - name: 21.jpg
     thumb: thumb-21.jpg
     text: Lovely view on the road.            
-  - name: Geobio_cover.jpg
-    thumb: thumb-Geobio_cover.jpg
+  - name: Geobio_cover.tiff
+    thumb: thumb-Geobio_cover.tiff
     text: Our paper got the cover of the Geobiology Journal.
   - name: oncolite.jpg
     thumb: thumb-oncolite.jpg
