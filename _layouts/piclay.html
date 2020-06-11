@@ -8,7 +8,7 @@ layout: default
 
 {% for gallery in site.data.piclist %}
   {% if gallery.id == page.galleryid %}
-    <h1>{{ gallery.description }}</h1>
+    <h1>{{ gallery.title }}</h1>
     <ol>
     {% for image in gallery.images %}
       <li>
