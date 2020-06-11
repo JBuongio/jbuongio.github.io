@@ -14,11 +14,34 @@
   <link rel="icon" href="/android-icon-192x192.png" type="image/png">
   <link rel="shortcut icon" type ="png" href="https://jbuongio.github.io/images/android-icon-192x192.png">
 
+<style type="text/css">
+<!--
+li{
+    list-style-type:none;
+    margin-right:10px;
+    margin-bottom:10px;
+    float:left;
+}
 
-</head>
+-->
+</style></head>
 
+<body>
 
-  <body>
+<ul>
+    <?php
+        $dirname = "images/LN_pic";
+        $images = scandir($dirname);
+        shuffle($images);
+        $ignore = Array(".", "..");
+        foreach($images as $curimg){
+            if(!in_array($curimg, $ignore)) {
+                echo "<li><a href='".$dirname.$curimg."'><img src='img.php?src=".$dirname.$curimg."&w=300&zc=1' alt='' /></a></li>\n";
+            }
+        }                 
+    ?>
+</ul>
+
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
@@ -34,13 +57,9 @@
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/team">Team</a></li>
-		<li><a href="http://localhost:4000/fieldsites">Field Sites</a></li>
-    <li><a href="http://localhost:4000/mediaoutreach">Outreach&Media</a></li>
-		<li><a href="http://localhost:4000/pictures">Gallery</a></li>
+		<li><a href="https://jbuongio.github.io//">Home</a></li>
+		<li><a href="https://jbuongio.github.io//cv">CV</a></li>
+		<li><a href="https://jbuongio.github.io//field_photos">Field Photos</a></li>
 	  </ul>
 	</div>
   </div>
@@ -50,40 +69,13 @@
     <div class="container-fluid">
       <div class="row">
         <div id="picid" class="col-sm-12">
-  <h1 id="pictures-and-videos">Pictures and Videos</h1>
+  <h1 id="LN_pictures">Laguna Negra, Argentina</h1>
 
-<h4 id="our-short-documentary-from-the-biology-meets-subduction-expedition">Our short documentary from the “Biology Meets Subduction” expedition:</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NAf7MvYZfwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h4 id="Photos from the field">Photos from the field and under the petrographic microscope:</h4>
 
-<p><br />
-<br /></p>
 
-<p>Jump to the <a href="#videos">video section</a> or check out the <a href="#pictures">gallery</a> from the lab and field.
- work around the world.</p>
-
-<h4 id="videos">Videos</h4>
-<p>Here some videos from the lab and the field! More are available on our <a href="">youtube channel</a> or in our social media feed on <a href="">Twitter</a> or <a href="">Instagram</a>.</p>
-
-<iframe width="355" height="200" src="https://www.youtube.com/embed/TX0dIqX_UaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<iframe width="355" height="200" src="https://www.youtube.com/embed/u9JxQdqtB_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<h4 id="pictures">Pictures</h4>
-<h5 id="from-the-field">From the Field</h5>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2019 Giovannelli Lab. Site forked from <a href="https://github.com/mpa139/allanlab">The Allan Lab</a> GitHub website;  <a href="http://localhost:4000/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="http://www.dipartimentodibiologia.unina.it/en/">Department of Biology</a> of the <a href="http://www.unina.it">University of Naples "Federico II"</a>.</p>
+		  <p>&copy 2020 Joy Buongiorno. Site forked from <a href="https://github.com/mpa139/allanlab">The Allan Lab</a> GitHub website;  <a href="http://localhost:4000/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+              
 
 
 
@@ -92,13 +84,10 @@
 		<div class="col-sm-4">
       <p>Follow me on:</p>
       <ul class="social">
-      <li><a href="mailto:donato.giovannelli@unina.it" class="fa fa-envelope fa-lg"></a></li>
-      <li><a href="https://twitter.com/d_giovannelli" class="fa fa-twitter fa-lg"></a></li>
-      <li><a href="https://github.com/dgiovannelli" class="fa fa-github fa-lg"></a></li>
-      <li><a href="https://www.youtube.com/channel/UCaSYgEmBXy7MVuS6QBIH9BA" class="fa fa-youtube fa-lg"></a></li>
-      <li><a href="https://www.linkedin.com/in/donatogiovannelli" class="fa fa-linkedin fa-lg"></a></li>
-      <li><a href="https://www.instagram.com/donatogiovannelli" class="fa fa-instagram fa-lg"></a></li>
-      <li><a href="https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en" class="fa fa-google fa-lg"></a></li>
+      <li><a href="mailto:jbuongiorno@carnegiescience.edu" class="fa fa-envelope fa-lg"></a></li>
+      <li><a href="https://twitter.com/DrJoyBuongiorno" class="fa fa-twitter fa-lg"></a></li>
+      <li><a href="https://github.com/jbuongio" class="fa fa-github fa-lg"></a></li>
+      <li><a href="https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao" class="fa fa-google fa-lg"></a></li>
       <ul>
      </div>
 
@@ -107,8 +96,8 @@
 		  Department of Biology, Ed. 7 - 1D-22<br />
 		  Monte Sant'Angelo<br />
 		  80126 Naples - Italy<br />
-		  e. <a href="mailto:donato.giovannelli@unina.it">donato.giovannelli@unina.it</a> <br />
-            (<a href="https://goo.gl/maps/RfFr2sVfi5x">Maps</a>)
+		  e. <a href="mailto:jbuongiorno@carnegiescience.edu">jbuongiorno@carnegiescience.edu</a> <br />
+
 		</div>
 	  </div>
 	</div>
