@@ -7,8 +7,8 @@
   link:
    url: https://jbuongio.github.io/images/LN_pic
    display: See photos
- highlight: 1 
- images:
+  highlight: 1 
+  images:
   - name: 1.jpg
     thumb: thumb-1.jpg
     text: I love being in the field!
@@ -170,4 +170,3 @@
   - name: oncolite.jpg
     thumb: thumb-oncolite.jpg
     text: Slab section of an oncolite.
-    
