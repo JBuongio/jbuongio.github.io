@@ -22,7 +22,7 @@ permalink: /field_photos/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>Laguna Negra, high Andes Mountains, Argentina</pubtit>
+  <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }}. {{ publi.year }}. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
