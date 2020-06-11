@@ -1,6 +1,5 @@
 - title: "Laguna Negra, high Andes Mountains, Argentina"
   id: Laguna Negra
-  image: Laguna_Negra.jpg
   description: "Microbes living in Laguna Negra, a hypersaline lake standing at 4100 meters above sea level, have to deal with polyextreme conditions -- high salt content, low nutrients, severe aridity, and high UV radiation to name a few. These microbes also have to contend with supersaturation of calcite, a calcium carbonate mineral that entombs them in rock. We call these rocks 'microbialites'."
   authors: Collaborators - F. Gomez (CONICET), D. Fike (Wash U), &amp; L.C. Kah (Univ. of TN)
   imagefolder: https://jbuongio.github.io/images/LN_pic
@@ -16,7 +15,7 @@
   - name: 2b.jpg
     thumb: thumb-2b.jpg
     text: Vast salt flat in the middle of the lake.
-   - name: 3.jpg
+  - name: 3.jpg
     thumb: thumb-3.jpg
     text: Microbialite belt
   - name: 3b.jpg
@@ -76,15 +75,9 @@
   - name: 21.jpg
     thumb: thumb-21.jpg
     text: Lovely view on the road.            
-       
-    
-    
-    
-    
-    
-    
-    
-    
-    
-       
-  
+  - name: Geobio_cover.jpg
+    thumb: thumb-Geobio_cover.jpg
+    text: Our paper got the cover of the Geobiology Journal.
+  - name: oncolite.jpg
+    thumb: thumb-oncolite.jpg
+    text: Slab section of an oncolite.
