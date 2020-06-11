@@ -9,16 +9,6 @@ permalink: /LN_pictures/
 
 #### Photos from the field and under the petrographic microscope:
 
-<ul>
-    <?php
-        $dirname = "images/LN_pic";
-        $images = scandir($dirname);
-        shuffle($images);
-        $ignore = Array(".", "..");
-        foreach($images as $curimg){
-            if(!in_array($curimg, $ignore)) {
-                echo "<li><a href='".$dirname.$curimg."'><img src='img.php?src=".$dirname.$curimg."&w=300&zc=1' alt='' /></a></li>\n";
-            }
-        }                 
-    ?>
-</ul>
+{% for gallery in site.data.piclist %}
+- [{{ piclist.description }}]({{ piclist.title }})
+{% endfor %}
