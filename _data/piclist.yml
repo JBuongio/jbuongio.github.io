@@ -82,20 +82,20 @@
     thumb: thumb-Geobio_cover.jpg
     text: Our paper got the cover of the Geobiology Journal!! Read it <a href='https://www.researchgate.net/profile/Linda_Kah/publication/329623724_Mineralized_microbialites_as_archives_of_environmental_evolution_Laguna_Negra_Catamarca_Province_Argentina/links/5c7fd44f92851c69505a90e7/Mineralized-microbialites-as-archives-of-environmental-evolution-Laguna-Negra-Catamarca-Province-Argentina.pdf'>here</a>.
     
-- title: "Svalbard, high Arctic (79degN)"
+- title: "Svalbard, high Arctic (79&deg;N)"
   id: Svalbard
   image: girl_power.jpg
   description: "Expeditions to the high Arctic to investigate microbial communities and biogeochemical cycles wihthin fjord sediments. The Arctic is experiencing warming 2 - 3 times greater than the rest of the planet. As the climate warms, glacial retreat and melting drive ecosystem feedbacks that we are only beginning to understand and predict."
   imagefolder: https://jbuongio.github.io/images/Svapic
-  authors: Collaborators - K. Lloyd &amp; K. Sipes (Univ. of TN), B. J\u00F8rgensen, A. Michaud, &amp; K. Laufer, A. Loy &amp; K. Wasmund (Univ. of Vienna), L. Wehrmann &amp; L. Hubert (Stony Brook U.)
+  authors: Collaborators - K. Lloyd &amp; K. Sipes (Univ. of TN), B. J&Oslash;rgensen, A. Michaud, &amp; K. Laufer, A. Loy &amp; K. Wasmund (Univ. of Vienna), L. Wehrmann &amp; L. Hubert (Stony Brook U.)
   link:
    url: https://jbuongio.github.io/SVA_pictures
    display: See photos
   highlight: 1 
   images:
   - name: Group-photo_Svalbard_2017.jpg 
-    thumb: thumb-photo_Svalbard_2017.jpg
-    text: 2017 field team. Top row - K. Laufer, H. Roy. Middle row - C. Hanson, K. Sipes, J. Buongiorno, L. Hubert, B. J\u00F8rgensen. Bottom row - G. Vitale, A. Michaud, S. Henkel.
+    thumb: thumb-Group-photo_Svalbard_2017.jpg
+    text: 2017 field team. Top row - K. Laufer, H. R&Oslash;y. Middle row - C. Hanson, K. Sipes, J. Buongiorno, L. Hubert, B. J&Oslash;rgensen. Bottom row - G. Vitale, A. Michaud, S. Henkel.
   - name: Group_photo_in_survival_suits.jpg 
     thumb: thumb-Group_photo_in_survival_suits.jpg
     text: Group photo in survival suits.
