@@ -81,3 +81,197 @@
   - name: Geobio_cover.jpg
     thumb: thumb-Geobio_cover.jpg
     text: Our paper got the cover of the Geobiology Journal!! Read it <a href='https://www.researchgate.net/profile/Linda_Kah/publication/329623724_Mineralized_microbialites_as_archives_of_environmental_evolution_Laguna_Negra_Catamarca_Province_Argentina/links/5c7fd44f92851c69505a90e7/Mineralized-microbialites-as-archives-of-environmental-evolution-Laguna-Negra-Catamarca-Province-Argentina.pdf'>here</a>.
+    
+ - title: "Svalbard, high Arctic (79&#176;N)"
+  id: Svalbard
+  image: girl_power.jpg
+  description: "Expeditions to the high Arctic to investigate microbial communities and biogeochemical cycles of fjord sediments. The Arctic is experiencing warming 2 - 3 times greater than the rest of the planet. As the climate warms, glacial retreat and melting drive ecosystem feedbacks that we are only beginning to understand and predict."
+  imagefolder: https://jbuongio.github.io/images/Svapic
+  authors: Collaborators - K. Lloyd &amp; K. Sipes (Univ. of TN), B. J\u00F8rgensen, A. Michaud, &amp; K. Laufer, A. Loy &amp; K. Wasmund (Univ. of Vienna), L. Wehrmann &amp; L. Hubert (Stony Brook U.)
+  link:
+   url: https://jbuongio.github.io/sva_pictures
+   display: See photos
+  highlight: 1 
+  images:
+  - name: Group-photo_Svalbard_2017.jpg 
+    thumb: thumb-photo_Svalbard_2017.jpg
+    text: 2017 field team. Top row - K. Laufer, H. Roy. Middle row - C. Hanson, K. Sipes, J. Buongiorno, L. Hubert, B. J\u00F8rgensen. Bottom row - G. Vitale, A. Michaud, S. Henkel.
+  - name: Group_photo_in_survival_suits.jpg 
+    thumb: thumb-Group_photo_in_survival_suits.jpg
+    text: Group photo in survival suits.
+  - name: group2.jpg 
+    thumb: thumb-group2.jpg
+    text: Planning a hike.
+  - name: glacier6.jpg 
+    thumb: thumb-glacier6.jpg
+    text: Glacier hike in Longyearbyen. 
+  - name: glacier9.jpg
+    thumb: thumb-glacier9.jpg
+    text: Glacier hike in Longyearbyen.
+  - name: fossil.jpg 
+    thumb: thumb-fossil.jpg
+    text: Fossils of vasucular plants can be found all over Svalbard. This is because 400 million years ago, it sat near the equator and had a much different climate than it does today. In fact, the lush, swampy forests that typify the ancient ecosystem of Svalbard is responsible for the large coal-mining boom in this area during the turn of the century. 
+  - name: tiny_plane.jpg
+    thumb: thumb-tiny_plane.jpg
+    text: Getting to Ny-Alesund from Longyearbyen requires getting on board this tiny plane with strict weight requirements. 
+  - name: planeride.jpg 
+    thumb: thumb-planeride.jpg
+    text: Tiny plane ride!
+  - name: glacier4.jpg 
+    thumb: thumb-glacier4.jpg
+    text: View from plane. Glaciers in this area sit atop red conglomerate bedrock. Rusty red iron oxides bleed off the melting glaciers, providing micronutrients to pytoplankton living on the shelf.
+  - name: iceberg.jpg 
+    thumb: thumb-iceberg.jpg
+    text: We can see trails of these iron precipitates behind moving icebergs. 
+  - name: glacier8.jpg 
+    thumb: thumb-glacier8.jpg   
+    text: View from plane. Most glaciers here are marine-terminating, meaning they end at the water. Prolonged glacial retreat will cause these to eventually become land-terminating. 
+  - name: sva.jpg 
+    thumb: thumb-sva.jpg
+    text: Marine-terminating glacier.
+  - name: village.jpg
+    thumb: thumb-village.jpg
+    text: Village of Ny-Alesund, the northern-most settlement in the entire world.
+  - name: village2.jpg
+    thumb: thumb-village2.jpg
+    text: View walking into the village.
+  - name: bar.jpg
+    thumb: thumb-bar.jpg
+    text: The northern-most bar in the world, only open on Thursday and Saturday. 
+  - name: farm.jpg 
+    thumb: thumb-farm.jpg
+    text: For our expedition in the fjord, we charter a small ship called The Farm and load it up with gear, food, and supplies for several days at sea. 
+  - name: farm3.jpg
+    thumb: thumb-farm3.jpg
+    text: Loading The Farm. 
+  - name: farm4.jpg 
+    thumb: thumb-farm4.jpg
+    text: Loading The Farm. 
+  - name: glacier.jpg 
+    thumb: thumb-glacier.jpg
+    text: View from the ship.
+  - name: glacier10.jpg 
+    thumb: thumb-glacier10.jpg
+    text: View from the ship.
+  - name: glacier11.jpg 
+    thumb: thumb-glacier11.jpg
+    text: View from the ship. 
+  - name: glacier12.jpg 
+    thumb: thumb-glacier12.jpg
+    text: View from the ship. 
+  - name: glacier2.jpg
+    thumb: thumb-glacier2.jpg
+    text: View from the ship. 
+  - name: glacier3.jpg 
+    thumb: thumb-glacier3.jpg
+    text: View from the ship.  
+  - name: glacier5.jpg 
+    thumb: thumb-glacier5.jpg
+    text: View to die for.
+  - name: drive.jpg 
+    thumb: thumb-drive.jpg
+    text: Driving the boat. Okay, more like keeping it pointing in the same direction while we weren't moving, but still really awesome. 
+  - name: walrus.jpg 
+    thumb: thumb-walrus.jpg
+    text: Walruses are curious about what the humans are doing in their waters. 
+  - name: walrus2.jpg 
+    thumb: thumb-walrus2.jpg
+    text: More walruses.
+  - name: walrus3.jpg 
+    thumb: thumb-walrus3.jpg
+    text: More walruses.    
+  - name: glacier7.jpg 
+    thumb: thumb-glacier7.jpg
+    text: Ice is actually a mineral and like other minerals, can come in many different forms. The light blue coloration of this ice is the result of tight compaction of the crystal lattice caused by pressure. 
+  - name: in_fjord.jpg 
+    thumb: thumb-in_fjord.jpg
+    text: My favorite place in the world.
+  - name: sampling.jpg
+    thumb: thumb-sampling.jpg
+    text: Sampling with a winch off the side of the ship and a HAPs corer, a simple gravity corer. 
+  - name: sampling3.jpg 
+    thumb: thumb-sampling3.jpg
+    text: Bringing up the core to sub-core it.  
+  - name: samping4.jpg 
+    thumb: thumb-samping4.jpg
+    text: To keep the sediment-water interface intact and to minimalize compression, we suck the headspace air out as we push. Pictured is K. Lloyd, my former PhD advisor.           
+  - name: sampling2.jpg 
+    thumb: thumb-sampling2.jpg
+    text: Longer cores require different equipment. Smeerenbergfjorden, Svalbard.
+  - name: dirty_job.jpg 
+    thumb: thumb-dirty_job.jpg
+    text: Playing with mud for science is a dirty job!
+  - name: dirty_job2.jpg 
+    thumb: thumb-dirty_job2.jpg
+    text: Playing with mud for science is a dirty job!
+  - name: pretty_mud.jpg
+    thumb: thumb-pretty_mud.jpg
+    text: The mud of Kongsfjorden has a characteristic red hue with swirls of black iron oxides produced in part by the byproducts of microbial sulfate reduction.
+  - name: prettymud2.jpg 
+    thumb: thumb-prettymud2.jpg
+    text: Ready to take to the on-shore lab.
+  - name: prettymud3.jpg 
+    thumb: thumb-prettymud3.jpg
+    text: Back on land, we begin the process of making thin slices of our core to get high depth-resolution microbial and geochemical data. 
+  - name: lab.jpg 
+    thumb: thumb-lab.jpg
+    text: Our indoor setup in the Marine Lab. 
+  - name: work2.jpg 
+    thumb: thumb-work2.jpg
+    text: Our outdoor setup. Because ambient outdoor temperatures are roughtly the same as in situ temps at the seafloor, we worked outside. K. Lloyd and I sampled for 20 hours straight on this (very exhausting) day. The sun is out 24-hours a day, making working outside in the cold a bit easier. 
+  - name: work.jpg 
+    thumb: thumb-work.jpg
+    text: Having learned crucial lessons from the past season, I trained up my assistant, K. Sipes, the following year and we quickly got through all of our sampling with a smile. 
+  - name: work3.jpg 
+    thumb: thumb-work3.jpg
+  - name: group3.jpg 
+    thumb: thumb-group3.jpg
+    text: Strategy meeting about data synthesis across our collective work inside the Marine Lab. 
+  - name: joyandalex.jpg 
+    thumb: thumb-joyandalex.jpg
+    text: A. Michaud drives a small boats to explore Kongsfjorden during a break from sampling.
+  - name: joyandchina.jpg 
+    thumb: thumb-joyandchina.jpg
+    text: C. Hanson and I take in the views.
+  - name: survival_suit.jpg 
+    thumb: thumb-survival_suit.jpg
+    text: Survival suits, aka Mustang suits, are crucial. Without one, living past two minutes in the ice-cold Arctic water is unlikely.
+  - name: girl_power.jpg 
+    thumb: thumb-girl_power.jpg
+    text: These blue insulated suits are less for survival and more for comfort. K. Sipes and I on the shore of Kongsfjorden. 
+  - name: group4.jpg 
+    thumb: thumb-group4.jpg
+    text: Anyone leaving the village is required to take with them person who is rifle trained in case of polar bears. 
+  - name: polarbearprint.jpg
+    thumb: thumb-polarbearprint.jpg
+    text: We had just missed one on our hike outside of Ny-Alesund!
+  - name: scenic_view.jpg
+    thumb: thumb-scenic_view.jpg
+    text: Dogs are also really good deterents for polar bears who may get too close. 
+  - name: tern.jpg
+    thumb: thumb-tern.jpg
+    text: An unexpected threat is the Arctic tern, who protect their nests fiercly.
+  - name: tern2.jpg
+    thumb: thumb-tern2.jpg
+    text: The trick to dealing with them is to hold up a stick so that they direct their attacks at it instead of your head (a very painful and annoying situation to which I can attest). 
+  - name: fox.jpg 
+    thumb: thumb-fox.jpg
+    text: The Arctic fox has a white coat during the winter months. The ones we encountered were just turning brown for the summer. 
+  - name: fox2.jpg
+    thumb: thumb-fox2.jpg
+    text: Cutie!
+  - name: reindeer.jpg
+    thumb: thumb-reindeer.jpg
+    text: When we arrive, the reindeer were also responding to the warmer weather by shedding their fur in massive chunks. 
+  - name: reindeer2.jpg 
+    thumb: thumb-reindeer2.jpg
+    text: Reindeer. 
+  - name: Group.jpg 
+    thumb: thumb-Group.jpg
+    text: Lunch at a cabin along the shore near Kongsfjorden.
+  - name: groupdinner.jpg 
+    thumb: thumb-groupdinner.jpg
+    text: Bonding over our journey North.
+  - name: SummerParty.jpg 
+    thumb: thumb-SummerParty.jpg
+    text: We made it to Ny-Alesund just in time for their annual Summer Party, marking the beginning of 24-hour days in 2017. Work hard, play hard. 
