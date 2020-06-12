@@ -78,9 +78,6 @@
   - name: 21.jpg
     thumb: thumb-21.jpg
     text: Lovely view on the road.            
-  - name: Geobio_cover.tiff
-    thumb: thumb-Geobio_cover.tiff
-    text: Our paper got the cover of the Geobiology Journal.
-  - name: oncolite.jpg
-    thumb: thumb-oncolite.jpg
-    text: Slab section of an oncolite (round microbialite).
+  - name: Geobio_cover.jpg
+    thumb: thumb-Geobio_cover.jpg
+    text: Our paper got the cover of the Geobiology Journal!! Read it <a href='https://www.researchgate.net/profile/Linda_Kah/publication/329623724_Mineralized_microbialites_as_archives_of_environmental_evolution_Laguna_Negra_Catamarca_Province_Argentina/links/5c7fd44f92851c69505a90e7/Mineralized-microbialites-as-archives-of-environmental-evolution-Laguna-Negra-Catamarca-Province-Argentina.pdf'>here</a>.
