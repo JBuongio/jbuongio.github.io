@@ -90,12 +90,13 @@ Finally, some general tips to always keep in mind when communicating science:
 - Body language goes a long way: maintain eye contact, don’t flail around, and don’t fidget with
 keys/coins in your pocket.
 - Provide a multi-media experience with graphs and images alongside your data.
-- Practice, but not so much that you sound canned.
+- Practice, but not so much that you sound canned.</p>
 
 
 ##<center>Lobbying for the National Science Foundation on Capitol Hill</center>
 
 <p align = "center"><img src='/images/blogpic/change.jpg' style="width: 40%; float: center;" /><br/></p>
+<p align= "justify">
 
 I put these skills to work on Capitol Hill to lobby for the National Science Foundation. It is not a secret that very little of the federal budget is allocated to science. In fact, federal spending on research and development is ~ 1% of tax revenue. As you can see in the graphic below, most of our nation’s budget is used for health care and defense.<br>
 
