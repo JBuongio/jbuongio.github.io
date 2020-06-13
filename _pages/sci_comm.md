@@ -12,8 +12,9 @@ permalink: /sci_comm/
   <img src='/images/blogpic/communication.jpg' style="width: 40%; float: center;"/><br/></p>
 <p align= "justify">
 
-In recent years, the proliferation of anti-science rhetoric has increased substaintally. The spread of misinformation and distrust of scientific sources not only poses a great danger to our health and our environment, but it also diminishes our standing globally. This leaves us with the question:<br>  <p style="font-size:130%;"> <b>how do we stop false narratives about science?</b></p><br>
-
+In recent years, the proliferation of anti-science rhetoric has increased substaintally. The spread of misinformation and distrust of scientific sources not only poses a great danger to our health and our environment, but it also diminishes our standing globally. This leaves us with the question:</p><br>  
+<p style="font-size:130%;"> <b>how do we stop false narratives about science?</b></p><br>
+<p align= "justify">
 The answer is simple, yet incredibly difficult: improve science communication. Unfortunately,
 past generations of scientists who have adopted the “guru on a hill” personality helped cultivate the
 widespread misrepresentation of science. Out of this elitist mentality, anti-science rhetoric was borne.
