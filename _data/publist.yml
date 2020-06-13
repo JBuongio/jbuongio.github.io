@@ -43,8 +43,8 @@
   news2:
   
 - title: "Methanogens in the Antarctic Dry Valley Permafrost"
-  image: 
-  description: Methanogen.jpg
+  image: Methanogen.jpg
+  description: Methanogens generate the powerful greenhouse gas, methane. A large question with climate change is how thawing permafrost will affect the trajectory of methane dynamics -- will thawing lead to a positive feedback loop where more warming means more methane which means more warming? In this paper, we interrogated a methanogenic genome from Antarctica, the first ever recontructed from Antarctic permafrost. We found several different methane-generating pathways. Protein modeling highlights protein adaptations that allow this microbe to endure the harsh permafrost environment.  
   authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
   doi: https://doi.org/10.1093/femsec/fiy109
   link:
@@ -52,3 +52,15 @@
     display: FEMS Microbiology Ecology, 2018
   highlight: 1
   news2:  
+  
+- title: "Visualizing carbon mineral systems: Recent advances in C mineral evolution, mineral ecology, and network analysis"
+  image: Review.jpg
+  description: 
+  authors: S.M Morrison, J. Buongiorno, R. T. Downs, A. Eleish, P. Fox, D. Giovannelli, J.T. Golden, D.R. Hummer, G. Hystad, L.H.Kellogg, O. Kreylos, S. Krivovichev, C. Liu, A. Merdith, A. Prabhu, J. Ralph, S. Runyon, S. Zahirovic, R.M. Hazen
+  doi: 
+  link:
+    url: 
+    display: Accepted
+  highlight: 1
+  news2:  
+  
