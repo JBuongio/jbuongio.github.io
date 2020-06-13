@@ -21,7 +21,7 @@ widespread misrepresentation of science. Out of this elitist mentality, anti-sci
 Now, the onus falls on us to combat attacks on science and scientists with approachable narratives,
 simple explanations, relatable content, and inclusivity. More and more scientists are stepping up to take
 on the challenge of reshaping the way they communicate science to friends and neighbors. I joined
-many of these scientists for a one and a half day bootcamp on science communication.
+many of these scientists for a one and a half day bootcamp on science communication.</p>
 
 <p align = "center"> 
   <img src='/images/blogpic/workshop.jpg' style="width: 90%; float: center;"/><br/></p>
@@ -29,25 +29,27 @@ many of these scientists for a one and a half day bootcamp on science communicat
 
 # Day 1: Best practices in communication
 
- 
+<p align= "justify">
 A first crucial step to effective communication is to recognize the curse of knowledge. We know what we
 know, they do not. To avoid estranging your audience, understand who they are and what they care
 about. Prepare a memorable narrative and find common ground while effectively delivering the big
-picture.
+picture.</p>
  
 <p align = "center"> <img src='/images/blogpic/audience.jpg' style="width: 90%; float: center;"/><br/></p>
 
+<p align= "justify">
 Next, perfect your “why”. This is the
 significance/relevance of our work. Often, scientist focus on the “how”, skipping the “why” altogether.
 But this is a huge mistake!! Your audience cares about the significance of your work and the relevance
 to their lives. The significance of scientific research is especially important to those aiming to keep their
 names off of the pages of the infamous [Wastebook]
-(http://www.sciencemag.org/careers/2017/06/congress-says-your-work-wasteful-now-what).<br>
+(http://www.sciencemag.org/careers/2017/06/congress-says-your-work-wasteful-now-what).<br></p>
  
 <p align = "center"><img src='/images/blogpic/why.jpg' style="width: 90%; float: center;" /><br/></p>
 
 <p align = "center"><img src='/images/blogpic/triangle.jpg' style="width: 40%; float: center;" /><br/></p>
- 
+
+<p align= "justify">
 Luckily, there is a formula to help craft an elegant and easily digestible
 significance statement. Start with a big idea that is concise. This serves as the framework for your argument. Next, develop three key messages that support your big idea. These can be facts, statistics, or predictions based on data. Think of transition statements that allow you to flow from each key message seamlessly. This is the one I drummed up during the course: <br>
 
@@ -65,10 +67,11 @@ produce atmospheric greenhouse gasses, such as methane and carbon dioxide. Most 
 microorganisms are found in marine systems, and although they are tiny, they have the potential to
 make big changes to our planet. By studying what microorganisms in marine systems are producing,
 we can model future changes in the atmosphere. This can tell us what to expect and help us make
-informed policy decisions.<br>
+informed policy decisions.<br></p>
 
 # Day 1: Debunking myths and defending uncertainty
 
+<p align= "justify">
 As scientists, we are a valuable resource for both providing new, exciting information and debunking
 widely repeated myths. On day 2 of the bootcamp, we learned how to properly address myths,
 enlighten the audience, and dispel misinformation. First, don’t start with the myth, this reinforces it.
@@ -76,9 +79,10 @@ Instead, make a “myth sandwich”: present facts before and after the myth. Ne
 by sharing what you do know about the myth, but then debunk the misinformation. Finally, always
 emphasize what you do know. The same tactics should be used when discussing scientific uncertainty.
 Be transparent about what do and do not know, and emphasize what we do know. But, remember, you
-cannot change everyone’s mind...<br>
+cannot change everyone’s mind...<br></p>
 
 <p align = "center"><img src='/images/blogpic/wrestle.jpg' style="width: 90%; float: center;" /><br/></p>
+
 
 Finally, some general tips to always keep in mind when communicating science:
 
@@ -90,7 +94,7 @@ Finally, some general tips to always keep in mind when communicating science:
 - Body language goes a long way: maintain eye contact, don’t flail around, and don’t fidget with
 keys/coins in your pocket.
 - Provide a multi-media experience with graphs and images alongside your data.
-- Practice, but not so much that you sound canned.</p>
+- Practice, but not so much that you sound canned.
 
 
 ##<center>Lobbying for the National Science Foundation on Capitol Hill</center>
@@ -98,10 +102,11 @@ keys/coins in your pocket.
 <p align = "center"><img src='/images/blogpic/change.jpg' style="width: 40%; float: center;" /><br/></p>
 <p align= "justify">
 
-I put these skills to work on Capitol Hill to lobby for the National Science Foundation. It is not a secret that very little of the federal budget is allocated to science. In fact, federal spending on research and development is ~ 1% of tax revenue. As you can see in the graphic below, most of our nation’s budget is used for health care and defense.<br>
+I put these skills to work on Capitol Hill to lobby for the National Science Foundation. It is not a secret that very little of the federal budget is allocated to science. In fact, federal spending on research and development is ~ 1% of tax revenue. As you can see in the graphic below, most of our nation’s budget is used for health care and defense.<br></p>
 
 <p align = "center"><img src='/images/blogpic/budget.jpg' style="width: 70%; float: center;" /><br/></p>
 
+<p align= "justify">
 Figures like this are only a snapshot that illustrates our nation’s priorities. The sobering truth is
 that federal spending on foundational (basic) science has stagnated within the past decade. In fact,
 trends show that the United States is set to be overtaken by China in overall federal science spending in [upcoming years](https://www.nsf.gov/statistics/2018/nsb20181/report/sections/overview/r-d-expenditures-and-r-d-intensity). Details for 2019 can be found [here](https://www.nsf.gov/statistics/2019/nsf19302/overview.htm). 
@@ -109,20 +114,21 @@ trends show that the United States is set to be overtaken by China in overall fe
 This is because, with the passage of the 2017 federal budget, we reached a turning point. This
 is the first time in post-World War II history that the majority of basic or fundamental science research is
 [no longer funded by the government](https://www.sciencemag.org/news/2017/03/data-check-us-government-share-basic-research-funding-falls-below-50). The combination of flattened federal funding trends and increased
-investment in science by private corporations is responsible.<br>
+investment in science by private corporations is responsible.<br></p>
 
 <p align = "center"><img src='/images/blogpic/CapitolHill.jpg' style="width: 40%; float: center;" /><br/></p>
 
+<p align= "justify">
 To help convince law makers that continued
 investment in science is crucial to maintaining
 the US at the forefront of research and tech, my
 colleagues (pictured above) and I met with
 several state representatives from Georgia,
 Tennessee, and Virginia. I highlight below a few
-of our meetings.<br>
+of our meetings.<br></p>
 
 ##Representative Woodall (R), 7th Congressional district of Georgia
-
+<p align= "justify">
 Rob Woodall of the House of Representatives is a smooth-talking lawyer from Georgia and gave
 us a very memorable meeting. He was one of the few legislators who took the time to meet with us in
 person (most sent their staffers). Because he was our first meeting of the day, none of us knew what to
@@ -141,8 +147,7 @@ the “hard” sciences. Now, if I were to ask you what he meant by “soft” a
 the same as what I would give: sociology and psychology are often considered the “soft” sciences, while
 physics and chemistry are the “hard” sciences. Well, this is definitely NOT what he means. I am unsure
 where he defined this distinction, but to him, National Science Foundation work is considered the “soft”
-sciences, and everything that falls under National Institutes of Health is the “hard”. My interpretation of
-what he values with regard to science, then, is that the development of cures, treatments, and
+sciences, and everything that falls under National Institutes of Health is the “hard”. My interpretation of what he values with regard to science, then, is that the development of cures, treatments, and
 diagnoses of disease is worth more than foundational science that defines the world around us. It is true
 that the developments for treating human disease is of immense importance, however, often we cannot
 get at complicated targets for drugs or tests for diseases without some basic science studies.
@@ -153,40 +158,35 @@ caught fire, causing massive disruptions in the commute of thousands of Georgian
 hired to fix the bridge were quick to get the job done, finishing a whole 6 weeks ahead of schedule. To
 reward them for a job well done, they were provided an extra $3 million in addition to their contract
 price of $13 million. To make the point that his state was on board with this spending, Rep. Woodall said
-that his office received zero calls from angry constituents. I imagine he told us this story to portray his
-constituents as people who value application and impact to their daily lives. This is something I already
-understood, but I also extracted something else from his story. Those contractors helped Georgians
-avoid additional hours spent on alternate routes, spending more on child care, or taking days off work.
-Those contractors helped solve a crisis. His story told me that scientists will not be valued until there is a
-crisis. A crisis involving brain drain, where smart talented researchers leave the United States to go
-somewhere in which they are well paid and well respected. A crisis where climate change destroys our
-agriculture, fisheries, and water supplies. A crisis where the United State is no longer the world’s leader
-in research and development. I told him all of this and more, and yet failed to “move the needle” with
+that his office received zero calls from angry constituents. I imagine he told us this story to portray his constituents as people who value application and impact to their daily lives. This is something I already understood, but I also extracted something else from his story. Those contractors helped Georgians avoid additional hours spent on alternate routes, spending more on child care, or taking days off work. Those contractors helped solve a crisis. His story told me that scientists will not be valued until there is a crisis. A crisis involving brain drain, where smart talented researchers leave the United States to go somewhere in which they are well paid and well respected. A crisis where climate change destroys our agriculture, fisheries, and water supplies. A crisis where the United State is no longer the world’s leader in research and development. I told him all of this and more, and yet failed to “move the needle” with
 him.
 
 A final thing to keep in mind is that lawmakers like Rep. Woodall believe it is their job to
-communicate OUR science. This is not true. We must own our work, be proud of it, share its value to their world, and keep reminding everyone of the <b> why</b>.
+communicate OUR science. This is not true. We must own our work, be proud of it, share its value to their world, and keep reminding everyone of the <b> why</b>.</p>
 
 ## Representative Blackburn (R), then representing the 7th Congressional district of Tennessee (now in senate)
 
 <p align = "center"><img src='/images/blogpic/Blackburn.jpg' style="width: 40%; float: center;" /><br/></p>
 
+<p align= "justify">
 I joined Mariah from Clarksville to speak with
 Representative Blackburn’s office. We did not get to speak
 directly with Blackburn about the National Science
-Foundation, but we got to meet her outside of her office briefly. Her staffer, Ellen (the only female staff member that was not a secretary that we met, by the way), sat with us for about ten minutes. The tone of the meeting was
-pretty awkward, as we could both tell Ellen did not have any interest in what we were saying, either because of inexperience or true disinterest in science.<br>
+Foundation, but we got to meet her outside of her office briefly. Her staffer, Ellen (the only female staff member that was not a secretary that we met, by the way), sat with us for about ten minutes. The tone of the meeting was pretty awkward, as we could both tell Ellen did not have any interest in what we were saying, either because of inexperience or true disinterest in science.<br></p>
 
 ## Representative Hice (R), 10th Congressional district of Georgia
 
 <p align = "center"><img src='/images/blogpic/Hice.jpg' style="width: 40%; float: center;" /><br/></p>
+<p align= "justify">
+
 Representative Hice took time out of a committee hearing to speak with us in the hallway of the Rayburn building. The constituents from Georgia in our group were particularly concerned about meeting with Hice because of his outspoken stances on social issues. We were all pleasantly surprised when he said that he “could not imagine” that drastic cuts in science
 would take place anytime soon. In fact, although the President’s proposed budgets for both fiscal year 2018 and 2019 include deep cuts to NSF funding, Congress is fighting back. The omnibus passed in March actually included massive increases in [science funding](https://www.aaas.org/news/omnibus-would-provide-largest-research-increase-nearly-decade). This is all
-good news, but we have to keep the pressure on.
+good news, but we have to keep the pressure on.</p>
 
 ## Senators Corker and Alexander, Tennessee
 
 <p align = "center"><img src='/images/blogpic/Blackburn.jpg' style="width: 40%; float: center;" /><br/></p>
+<p align= "justify">
 
 While waiting to meet with Senator Corker’s staffer, we were treated to coffee and Pringles (which I
 learned are made in Jackson, Tennessee). At the front of the office was a secretary who was taking
@@ -195,7 +195,7 @@ bills were met with terse “uh huh”s and “mmm”s from someone not taking n
 as they are supposed to, but SHOE SHOPPING. This was very enlightening and will inform my future calls
 to Corker’s DC office.
 
-Sen. Corker was not able to meet with us, so instead we met with a young staffer who made it clear that
+Senator Corker was not able to meet with us, so instead we met with a young staffer who made it clear that
 the senator supports science and appreciates The University of Tennessee. Because Corker is retiring
 soon (with rumors of a Presidential bid that was not able to be confirmed by the staffer), the impact that
 his office can make on science funding is likely minimal. I opened an invitation up to both him and the
@@ -216,4 +216,4 @@ Overall, I was pleasantly surprized by the receptivity to science most represent
 hope that the perceived partisan divide surrouding science is over blown and will not get in the way of
 continued federal funding of science. To ensure our country remains at the forefront of research and
 development, I believe that scientists who are up to the task of being aware, vocal, and engaged have a
-duty to stand up for science.
+duty to stand up for science.</p>
