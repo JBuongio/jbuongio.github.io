@@ -1,7 +1,7 @@
 ---
-title: "Giovannelli Lab - Team"
+title: "Joy Buongiorno - Team"
 layout: gridlay
-excerpt: "Giovannelli Lab: Team members"
+excerpt: "Joy Buongiorno - Team members"
 sitemap: false
 permalink: /team/
 ---

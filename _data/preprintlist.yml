@@ -1,7 +1,7 @@
 - title: "Plate tectonics drive deep biosphere microbial community composition"
   image:
   description:
-  authors: Fullerton KM, Schrenk M, Yucel M, Manini E, Fattorini D, di Carlo M, RegoliF, Nakagawa M, Smedile F, Vetriani C, Miller H, Morrison S, Martinez M, de Moor JM, Barry PH, Giovannelli D, Lloyd K
+  authors: Fullerton KM, Schrenk M, Yucel M, Manini E, Basili M, Rogers T, Fattorini D, di Carlo M, RegoliF, Nakagawa M, Smedile F, Vetriani C, Miller H, Morrison S, Buongiorno J, Jessen, G, Martinez M, de Moor JM, Barry PH, Giovannelli D, Lloyd K
   year: 2019
   link:
     url: https://eartharxiv.org/gyr7n
@@ -9,24 +9,13 @@
   highlight: 0
   news2:
 
-- title: "Living at the Extremes: Extremophiles and the Limits of Life in a Planetary Context"
+- title: "Woeseiales transcriptional response in Arctic fjord surface sediment"
   image:
   description:
-  authors: Merino N, Aronson HS, Bojanova D, Feyhl-Buska J, Wong ML, Zhang S, Giovannelli D
-  year: 2019
+  authors: Buongiorno J, Sipes K, Wasmund K, Loy A, Lloyd KG
+  year: 2020
   link:
     url:
-    display: EarthArxiv, doi 10.31223/osf.io/8eay6
-  highlight: 0
-  news2:
-
-- title: "Deep-Sea ecosystem: a world of positive species interactions?"
-  image:
-  description:
-  authors: Baldrighi E, Giovannelli E, D'errico G, Lavaleye MSS and Manini E
-  year: 2018
-  link:
-    url:
-    display: Biogeoscience Discussion, doi 10.5194/bg-2016-26
+    display: BiorXiv, doi 10.1101/2020.06.04.134015
   highlight: 0
   news2:
