@@ -6,8 +6,7 @@ sitemap: false
 permalink: /sci_comm/
 ---
 
-<h2 align = "center" ; "font-size:160%"> <b>Science communication bootcamp<br>
-put on by the American Institute of Biological Sciences</b></h2>
+## <center><b>Science communication bootcamp put on by the American Institute of Biological Sciences<br></center>
 
 
 <p align = "center"> 
