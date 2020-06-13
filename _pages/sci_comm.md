@@ -6,8 +6,7 @@ sitemap: false
 permalink: /sci_comm/
 ---
 
-## <center><b>Science communication bootcamp put on by the American Institute of Biological Sciences<br></center>
-
+## <center>Science communication bootcamp put on by the American Institute of Biological Sciences<br>
 
 <p align = "center"> 
   <img src='/images/blogpic/communication.jpg' style="width: 40%; float: center;"/><br/></p>
@@ -27,7 +26,7 @@ many of these scientists for a one and a half day bootcamp on science communicat
   <img src='/images/blogpic/workshop.jpg' style="width: 90%; float: center;"/><br/></p>
   
 
-<h1 style="text-align:center;"> Day 1: Best practices in communication</h1>
+# Day 1: Best practices in communication
 
  
 A first crucial step to effective communication is to recognize the curse of knowledge. We know what we
@@ -67,7 +66,7 @@ make big changes to our planet. By studying what microorganisms in marine system
 we can model future changes in the atmosphere. This can tell us what to expect and help us make
 informed policy decisions.<br>
 
-<h1 style="text-align:center"> Day 1: Debunking myths and defending uncertainty</h1>
+# Day 1: Debunking myths and defending uncertainty
 
 As scientists, we are a valuable resource for both providing new, exciting information and debunking
 widely repeated myths. On day 2 of the bootcamp, we learned how to properly address myths,
