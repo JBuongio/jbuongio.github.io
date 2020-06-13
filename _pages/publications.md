@@ -66,17 +66,3 @@ Jump at the bottom of the page to see a [full list of publications](#full-list),
 
 {% endfor %}
 
-## Books and book chapters
-
-{% for publi in site.data.booklist %}
-
-  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
-
-{% endfor %}
-
-## Patents
-{% for publi in site.data.patentlist %}
-
-  <strong>{{ publi.year }}</strong>. {{ publi.title }}. {{ publi.authors }}. <em>{{ publi.link.display }}</em>
-
-{% endfor %}
