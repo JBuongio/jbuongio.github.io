@@ -97,7 +97,7 @@ keys/coins in your pocket.
 - Practice, but not so much that you sound canned.</p>
 
 
-##<center>Lobbying for the National Science Foundation on Capitol Hill</center>
+##<center>Lobbying for the National Science Foundation on Capitol Hill
 
 <p align = "center"><img src='/images/blogpic/change.jpg' style="width: 40%; float: center;" /><br/></p>
 <p align= "justify">
@@ -127,7 +127,7 @@ several state representatives from Georgia,
 Tennessee, and Virginia. I highlight below a few
 of our meetings.<br></p>
 
-##Representative Woodall (R), 7th Congressional district of Georgia
+## Representative Woodall (R), 7th Congressional district of Georgia
 <p align= "justify">
 Rob Woodall of the House of Representatives is a smooth-talking lawyer from Georgia and gave
 us a very memorable meeting. He was one of the few legislators who took the time to meet with us in
