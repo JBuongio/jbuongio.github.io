@@ -72,7 +72,7 @@ I received my B.Sc. in Biology (2011) from Tennessee Technlogical University. I 
 
 I combine my background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, bioinformatics tools, and imaging techniques to delve into the interactions between the biosphere and geosphere that make life thrive in some of the harshest, uninhabitable environments. By combining results from wet-lab and in silico experiments, my work provides a holistic understanding of microbial activity in systems characterized by different geochemical regimes. Clues into how life shaped Earth's environments and vice versa are hypothesized to be written in the DNA of ancient microbial lineages and the rock record. It's my job to uncover these clues, and unlock the secrets to how life can perhaps evolve on other planets. My field sites include the western coast of Svalbard, Antarctic permafrost, hypersaline lakes in the high Andes mountains and hot springs in the Andean Altiplano. 
 
-I am large supporter of <a href= 'https://jbuongio.github.io/sci_comm>science communication</a>, open science, and the removal of paywalls between science and the people. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
+I am large supporter of <a href= 'https://jbuongio.github.io/sci_comm'>science communication</a>, open science, and the removal of paywalls between science and the people. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
 
 
 ### Dedication to practicing allyship
