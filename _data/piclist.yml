@@ -278,3 +278,16 @@
   - name: yoga.jpg 
     thumb: thumb-yoga.jpg
     text: Yoga on the shoreline.
+    
+- title: "Puna region, high Andes Mountains (4100 - 4600 m elevation)"
+  id: Argentina
+  image: truck.jpg
+  description: "The Biology Meets Subduction team head up to the high Andes to sample about 20 geothermally active sites. Our sampling program included collecting gas, sediment, and water, all to investigate the interactions between geochemistry and microorganisms that are perhaps driven by differences in Earth's interior."
+  imagefolder: https://jbuongio.github.io/images/ARpic
+  authors: Collaborators - K. Lloyd &amp; T.J. Rogers (Univ. of TN), D. Giovannelli (Univ. of Naples), Maarten DeMoore (Universidad Nacionale Costa Rica), Peter Barry (Woods Hole Oceanographic Institution), Matt Shrenk (Univ. of Michigan), Gerdhard Jessen (Universidad Austral de Chile), F. Gomez (CONICET Argentina), Emilce Bustos, Agostina Chiodi (Universidad Nacionale de Salta), &amp; Fili Povich
+  link:
+   url: https://jbuongio.github.io/AR_pictures
+   display: See photos
+  highlight: 1    
+    
+    
