@@ -185,7 +185,7 @@ good news, but we have to keep the pressure on.</p>
 
 ## Senators Corker and Alexander, Tennessee
 
-<p align = "center"><img src='/images/blogpic/Blackburn.jpg' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/senators.jpg' style="width: 40%; float: center;" /><br/></p>
 <p align= "justify">
 
 While waiting to meet with Senator Corker’s staffer, we were treated to coffee and Pringles (which I
