@@ -6,7 +6,7 @@ sitemap: false
 permalink: /sci_comm/
 ---
 
-## <center>Science communication bootcamp put on by the American Institute of Biological Sciences, 2018<br>
+## <center>Science communication bootcamp and congressional visits day put on by the American Institute of Biological Sciences, 2018<br>
 
 <p align = "center"> 
   <img src='/images/blogpic/communication.jpg' style="width: 40%; float: center;"/><br/></p>
@@ -166,7 +166,7 @@ him.
 A final thing to keep in mind is that lawmakers like Rep. Woodall believe it is their job to
 communicate OUR science. This is not true. We must own our work, be proud of it, share its value to their world, and keep reminding everyone of the <b> why</b>.
 
-##Representative Blackburn (R), then representing the 7th Congressional district of Tennessee (now in senate)
+## Representative Blackburn (R), then representing the 7th Congressional district of Tennessee (now in senate)
 
 <p align = "center"><img src='/images/blogpic/Blackburn.jpg' style="width: 40%; float: center;" /><br/></p>
 
@@ -176,13 +176,43 @@ directly with Blackburn about the National Science
 Foundation, but we got to meet her outside of her office briefly. Her staffer, Ellen (the only female staff member that was not a secretary that we met, by the way), sat with us for about ten minutes. The tone of the meeting was
 pretty awkward, as we could both tell Ellen did not have any interest in what we were saying, either because of inexperience or true disinterest in science.<br>
 
-##Representative Hice (R), 10th Congressional district of Georgia
+## Representative Hice (R), 10th Congressional district of Georgia
 
 <p align = "center"><img src='/images/blogpic/Hice.jpg' style="width: 40%; float: center;" /><br/></p>
 Representative Hice took time out of a committee hearing to speak with us in the hallway of the Rayburn building. The constituents from Georgia in our group were particularly concerned about meeting with Hice because of his outspoken stances on social issues. We were all pleasantly surprised when he said that he “could not imagine” that drastic cuts in science
 would take place anytime soon. In fact, although the President’s proposed budgets for both fiscal year 2018 and 2019 include deep cuts to NSF funding, Congress is fighting back. The omnibus passed in March actually included massive increases in [science funding](https://www.aaas.org/news/omnibus-would-provide-largest-research-increase-nearly-decade). This is all
 good news, but we have to keep the pressure on.
 
+## Senators Corker and Alexander, Tennessee
 
+<p align = "center"><img src='/images/blogpic/Blackburn.jpg' style="width: 40%; float: center;" /><br/></p>
 
+While waiting to meet with Senator Corker’s staffer, we were treated to coffee and Pringles (which I
+learned are made in Jackson, Tennessee). At the front of the office was a secretary who was taking
+phone calls from constituents. People calling in to voice their concerns over current policy or upcoming
+bills were met with terse “uh huh”s and “mmm”s from someone not taking notes on names or zip codes
+as they are supposed to, but SHOE SHOPPING. This was very enlightening and will inform my future calls
+to Corker’s DC office.
 
+Sen. Corker was not able to meet with us, so instead we met with a young staffer who made it clear that
+the senator supports science and appreciates The University of Tennessee. Because Corker is retiring
+soon (with rumors of a Presidential bid that was not able to be confirmed by the staffer), the impact that
+his office can make on science funding is likely minimal. I opened an invitation up to both him and the
+senator to come visit the labs at UT to see what NSF funding helps us accomplish.
+
+Senator Alexander was also unable to visit with us. By the way, while most represtatives’ offices are
+furnished with native décor that reminds them of home, Alexander’s office wins the prize for the most
+over the top decorations. It was like walking into a glorified Cracker Barrel, with coonskin caps and old
+muskets hung on brown splinterred wood walls.
+
+We were called back by John, a current Oak Ridge National Lab Science Policy fellow. John has a PhD in
+materials science, and so he understands the importance of continued federal science funding. He
+assured us that Alexander is a science advocate, and very much likes hearing stories of how science
+changes lives. I extended an invitation to our lab to both John and the senator so I could share more
+stories.
+
+Overall, I was pleasantly surprized by the receptivity to science most representatives displayed. I
+hope that the perceived partisan divide surrouding science is over blown and will not get in the way of
+continued federal funding of science. To ensure our country remains at the forefront of research and
+development, I believe that scientists who are up to the task of being aware, vocal, and engaged have a
+duty to stand up for science.
