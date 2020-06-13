@@ -6,7 +6,7 @@ sitemap: false
 permalink: /sci_comm/
 ---
 
-<<h2 align = "center" ; "font-size:160%"> <b>Science communication bootcamp<br>
+<h2 align = "center" ; "font-size:160%"> <b>Science communication bootcamp<br>
 put on by the American Institute of Biological Sciences</b></h2>
 
 
@@ -28,7 +28,7 @@ many of these scientists for a one and a half day bootcamp on science communicat
   <img src='/images/blogpic/workshop.jpg' style="width: 90%; float: center;"/><br/></p>
   
 
-<h1 style="text-align:center"> Day 1: Best practices in communication</h1>
+<h1 style="text-align:center;"> Day 1: Best practices in communication</h1>
 
  
 A first crucial step to effective communication is to recognize the curse of knowledge. We know what we
