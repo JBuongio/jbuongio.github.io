@@ -84,7 +84,7 @@ cannot change everyone’s mind...<br>
 Finally, some general tips to always keep in mind when communicating science:
 
 - Avoid dual-use words like theory, statistically significant, and average.
-- Be consistent. Use jargon or terminology sparingly (eg. CRISPR  gene editing).
+- Be consistent. Use jargon or terminology sparingly (eg. CRISPR shoudl be 'gene editing').
 - Be thoughtful and strategic about what you present.
 - Be conversational. Aim for about 150 words per minute, vary your pace, pause.
 - Do not lecture or patronize.
