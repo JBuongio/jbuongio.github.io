@@ -94,7 +94,7 @@ Finally, some general tips to always keep in mind when communicating science:
 - Body language goes a long way: maintain eye contact, don’t flail around, and don’t fidget with
 keys/coins in your pocket.
 - Provide a multi-media experience with graphs and images alongside your data.
-- Practice, but not so much that you sound canned.
+- Practice, but not so much that you sound canned.</p>
 
 
 ##<center>Lobbying for the National Science Foundation on Capitol Hill</center>
@@ -192,8 +192,7 @@ While waiting to meet with Senator Corker’s staffer, we were treated to coffee
 learned are made in Jackson, Tennessee). At the front of the office was a secretary who was taking
 phone calls from constituents. People calling in to voice their concerns over current policy or upcoming
 bills were met with terse “uh huh”s and “mmm”s from someone not taking notes on names or zip codes
-as they are supposed to, but SHOE SHOPPING. This was very enlightening and will inform my future calls
-to Corker’s DC office.
+as they are supposed to, but shoe shopping online instead. This was very enlightening and will inform my future calls to Corker’s DC office.
 
 Senator Corker was not able to meet with us, so instead we met with a young staffer who made it clear that
 the senator supports science and appreciates The University of Tennessee. Because Corker is retiring
@@ -203,8 +202,8 @@ senator to come visit the labs at UT to see what NSF funding helps us accomplish
 
 Senator Alexander was also unable to visit with us. By the way, while most represtatives’ offices are
 furnished with native décor that reminds them of home, Alexander’s office wins the prize for the most
-over the top decorations. It was like walking into a glorified Cracker Barrel, with coonskin caps and old
-muskets hung on brown splinterred wood walls.
+over the top decorations. It was like walking into a a next-level Cracker Barrel, with coonskin caps and old
+muskets hung on brown splinterred wood walls. I liked it.
 
 We were called back by John, a current Oak Ridge National Lab Science Policy fellow. John has a PhD in
 materials science, and so he understands the importance of continued federal science funding. He
@@ -212,7 +211,7 @@ assured us that Alexander is a science advocate, and very much likes hearing sto
 changes lives. I extended an invitation to our lab to both John and the senator so I could share more
 stories.
 
-Overall, I was pleasantly surprized by the receptivity to science most representatives displayed. I
+Overall, I was pleasantly surprised by the receptivity to science most representatives displayed. I
 hope that the perceived partisan divide surrouding science is over blown and will not get in the way of
 continued federal funding of science. To ensure our country remains at the forefront of research and
 development, I believe that scientists who are up to the task of being aware, vocal, and engaged have a
