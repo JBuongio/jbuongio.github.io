@@ -6,15 +6,15 @@ sitemap: false
 permalink: /sci_comm/
 ---
 
-<p align = "center" > <b>Science communication bootcamp<br>
-put on by the American Institute of Biological Sciences</b></p>
+<<h2 align = "center" ; "font-size:160%"> <b>Science communication bootcamp<br>
+put on by the American Institute of Biological Sciences</b></h2>
 
 
 <p align = "center"> 
   <img src='/images/blogpic/communication.jpg' style="width: 40%; float: center;"/><br/></p>
 <p align= "justify">
 
-In recent years, the proliferation of anti-science rhetoric has increased substaintally. The spread of misinformation and distrust of scientific sources not only poses a great danger to our health and our environment, but it also diminishes our standing globally. This leaves us with the question:<br>  <p style="font-size:130%;"> <b>how do we stop false narratives about science?</b></p>
+In recent years, the proliferation of anti-science rhetoric has increased substaintally. The spread of misinformation and distrust of scientific sources not only poses a great danger to our health and our environment, but it also diminishes our standing globally. This leaves us with the question:<br>  <h1 style="font-size:130%;"> <b>how do we stop false narratives about science?</b></h1>
 
 The answer is simple, yet incredibly difficult: improve science communication. Unfortunately,
 past generations of scientists who have adopted the “guru on a hill” personality helped cultivate the
@@ -24,11 +24,8 @@ simple explanations, relatable content, and inclusivity. More and more scientist
 on the challenge of reshaping the way they communicate science to friends and neighbors. I joined
 many of these scientists for a one and a half day bootcamp on science communication.
 
-
-hese samples, the results of which will inform our understanding of how microbial communities and their trace metal utilization potentially change in accordance with deep subsurface properties.<br></p>
-
 <p align = "center"> 
-  <img src='/images/blogpic/workshop.jpg' style="width: 40%; float: center;"/><br/></p>
+  <img src='/images/blogpic/workshop.jpg' style="width: 90%; float: center;"/><br/></p>
   
 
 <h1 style="text-align:center"> Day 1: Best practices in communication</h1>
@@ -39,7 +36,7 @@ know, they do not. To avoid estranging your audience, understand who they are an
 about. Prepare a memorable narrative and find common ground while effectively delivering the big
 picture.
  
-<p align = "center"> <img src='/images/blogpic/date.pjpg' style="width: 40%; float: center;"/><br/></p>
+<p align = "center"> <img src='/images/blogpic/audience.jpg' style="width: 90%; float: center;"/><br/></p>
 
 Next, perfect your “why”. This is the
 significance/relevance of our work. Often, scientist focus on the “how”, skipping the “why” altogether.
@@ -48,7 +45,7 @@ to their lives. The significance of scientific research is especially important 
 names off of the pages of the infamous [Wastebook]
 (http://www.sciencemag.org/careers/2017/06/congress-says-your-work-wasteful-now-what).<br>
  
-<p align = "center"><img src='/images/blogpic/why.jpg' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/why.jpg' style="width: 90%; float: center;" /><br/></p>
 
 <p align = "center"><img src='/images/blogpic/triangle.jpg' style="width: 40%; float: center;" /><br/></p>
  
@@ -82,7 +79,7 @@ emphasize what you do know. The same tactics should be used when discussing scie
 Be transparent about what do and do not know, and emphasize what we do know. But, remember, you
 cannot change everyone’s mind...<br>
 
-<p align = "center"><img src='/images/blogpic/wrestle.jpg' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/wrestle.jpg' style="width: 90%; float: center;" /><br/></p>
 
 Finally, some general tips to always keep in mind when communicating science:
 
