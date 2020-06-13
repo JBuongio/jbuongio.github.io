@@ -41,3 +41,14 @@
     display: Genome Announcments, 2016
   highlight: 0
   news2:
+  
+- title: "Methanogens in the Antarctic Dry Valley Permafrost"
+  image: 
+  description: Methanogen.jpg
+  authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
+  doi: https://doi.org/10.1093/femsec/fiy109
+  link:
+    url: https://academic.oup.com/femsec/article/94/8/fiy109/5033399
+    display: FEMS Microbiology Ecology, 2018
+  highlight: 1
+  news2:  
