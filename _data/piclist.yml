@@ -329,6 +329,9 @@
   - name: sampling7.jpg
     thumb: thumb-sampling7.jpg
     text: Hot spring fringed with red mineral precipitates, such as iron oxides, and microbial mats with special UV protecting pigments. 
+  - name: frog.jpg
+    thumb: thumb-frog.jpg
+    text: This little guy couldn't escape my curious enthusiasm for herps, even if I was there to collect spring samples, not frogs. 
   - name: sampling5.jpg
     thumb: thumb-sampling5.jpg
     text: Communication in the field is key. 
@@ -359,6 +362,9 @@
   - name: view.jpg
     thumb: thumb-view.jpg
     text: View to die for. 
+  - name: drone.jpg
+    thumb: thumb-drone.jpg
+    text: Peter Barry takes his drone for a look around. 
   - name: yoga2.jpg
     thumb: thumb-yoga2.jpg
     text: Mandatory yoga pose. 
@@ -401,5 +407,38 @@
   - name: flow.jpg
     thumb: thumb-flow.jpg
     text: This site had the most exquisite calcareous travertine flows.
+  - name: hotel.jpg
+    thumb: thumb-hotel.jpg
+    text: Multiple days of sampling in the field requires having a hotel home-site. Ours was in Catamarca, NW Argentina. 
+  - name: icecream.jpg
+    thumb: thumb-icecream.jpg
+    text: Sampling the local ice cream with Agostina Chiodi and Maarten DeMoore.
+  - name: diablo4.jpg
+    thumb: thumb-diablo4.jpg
+    text: One of the sites we sampled was called El Diablo.
+  - name: diablo3.jpg
+    thumb: thumb-diablo3.jpg
+    text: 
+  - name: diablo2.jpg
+    thumb: thumb-diablo2.jpg
+    text: Agostina Chiodi sets up her instrument. 
+  - name: diablo.jpg
+    thumb: thumb-diablo.jpg
+    text: Karen Lloyd sampling fluids.
+  - name: diablo5.jpg
+    thumb: thumb-diablo5.jpg
+    text: Setting up sampling at the truck.
+  - name: truck2.jpg
+    thumb: thumb-truck2.jpg
+    text: The truck also served as a moblile lab.
+  - name: truck5.jpg
+    thumb: thumb-truck5.jpg
+    text: Donato Giovannelli sets up incubation experiments with labeled carbon substrates to track rates of autotrophy. 
+  - name: fumarolas.jpg
+    thumb: thumb-fumarolas.jpg
+    text: Fumarolas
+  - name: fumarolas2.jpg
+    thumb: thumb-fumarolas2.jpg
+    text: Donato Giovannelli sets up the peristaltic pump while Peter Barry holds his sampler fitted with a funnel to collect nobel gases at the source. 
     
     
