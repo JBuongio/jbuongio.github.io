@@ -1,7 +1,7 @@
 ---
 title: "Joy Buongiorno website - Home"
 layout: homelay
-excerpt: "Website of the Joy Buongiorno at Carnegie Institution for Science. My research aims to answer questions related to the co-evolution between life and Earth by integrating approaches from the data, life, Earth sciences"
+excerpt: "Website of Joy Buongiorno"
 sitemap: false
 permalink: /
 ---
