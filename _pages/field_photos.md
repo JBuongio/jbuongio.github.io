@@ -20,6 +20,12 @@ permalink: /field_photos/
 <div class="row">
 {% endif %}
 
+<style>
+        .well {
+            background-color: rgb(204, 237, 255);
+        }
+    </style>
+    
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
