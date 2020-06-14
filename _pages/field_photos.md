@@ -22,7 +22,7 @@ permalink: /field_photos/
 
 <style>
         .well {
-            background-color: rgb(204, 237, 255);
+            background-color: rgb(229, 246, 255);
         }
     </style>
     
