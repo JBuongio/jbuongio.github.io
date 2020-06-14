@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-Jump to the bottom of the page to see a [full list of publications](#full-list) and [Preprints](#preprints). A complete list of papers and conference abstracts is also available in my [Google Scholar](https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao)) profile.
+Jump to the bottom of the page to see a [full list of publications](#full-list) and [Preprints](#preprints). A complete list of papers and conference abstracts is also available in my [Google Scholar](https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao) profile.
 
 ## Highlights
 
