@@ -288,6 +288,22 @@
   link:
    url: https://jbuongio.github.io/AR_pictures
    display: See photos
-  highlight: 1    
+  highlight: 1  
+  images:
+  - name: truck.jpg 
+    thumb: thumb-truck.jpg
+    text: Where we're going, there are no roads. 
+  - name: prep.jpg
+    thumb: thumb-prep.jpg
+    text: Prepping materials in Salta before we hit the road. 
+  - name: prep2.jpg 
+    thumb: thumb-prep2.jpg
+    text: TJ and I packing up supplies for each spring we will sample. 
+  - name: saltflat2.jpg
+    thumb: thumb-saltflat2.jpg
+    text: Beautiful scenic views for miles and miles on the road as we headed to the first spring. 
+  - name: shrine.jpg
+    thumb: thumb-shrine.jpg
+    text: Dotted along the roadside in Argentina are these shrines outfitted with water bottles and old car parts. These are built by locals, inspired by the story of the Maria Antonia Deolina Correa. In 1854, this young mother left San Juan and headed to La Rioja to get treatment for her son with pneumonia. Taking unmarked roads to evade pursuit by a jealous want-to-be boyfriend, she lost her way and died of thirst and exposure in the desert.  
     
     
