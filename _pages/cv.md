@@ -18,27 +18,27 @@ jbuongiorno@carnegiescience.edu</p>
 
 Maryville College
 
-- Assistant Professor of Environmental Biology August 2020
+- Assistant Professor of Environmental Biology, August 2020
 
 **Education and Professional Experience**
 
 Carnegie Institution of Washington, Geophysical Laboratory
 
-- Postdoctoral Research Fellow Jan. 2019 - present
+- Postdoctoral Research Fellow, Jan. 2019 - present
 
 University of Tennessee, Knoxville
 
-- Ph.D. Microbiology, GPA: 3.95 2014-2018
+- Ph.D. Microbiology, GPA: 3.95, 2014-2018
 
-- M.Sc. Geoscience, GPA: 3.94 2012-2014
+- M.Sc. Geoscience, GPA: 3.94, 2012-2014
 
 Tennessee Technological University
 
-- B.S. Biology, _summa cum laude_, minor geology, GPA: 3.92 2011
+- B.S. Biology, _summa cum laude_, minor geology, GPA: 3.92, 2011
 
 Agouron Institute
 
-- International Geobiology Course graduate 2015
+- International Geobiology Course graduate, 2015
 
 **Publications**
 
