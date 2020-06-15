@@ -14,6 +14,12 @@ permalink: /cv/
 
 jbuongiorno@carnegiescience.edu</p>
 
+**Employment**
+
+Maryville College
+
+- Assistant Professor of Environmental Biology August 2020
+
 **Education and Professional Experience**
 
 Carnegie Institution of Washington, Geophysical Laboratory
