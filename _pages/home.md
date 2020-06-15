@@ -85,6 +85,7 @@ As a STEM professional, I believe building my toolkit of allyship is an integral
 <a href='https://jbuongio.github.io/pdfs/ESS_ToolsRaceDiscussion_jcl_04092020.pdf'> Talking about Race in Earth and Space Science </a> compiled by <a href='https://scholar.google.com/citations?user=VOHXOvoAAAAJ&hl=en'>J. C. Lerback</a>.<br>
 <a href='https://jbuongio.github.io/pdfs/Anti-racism_in_STEM_Academia_Self_Education_Resources.pdf'>Anti-racism in STEM & Academia Self Education Resources</a> by Aurora Roth, Kathleen McKee, Naomi Ochwat, and Anna Simpson. 
 <br>
+a href = 'https://docs.google.com/document/d/1gefAURNCvJJ3S7RutFX22vpfa47ouvQb0D82SKu0uJs/edit?usp=sharing'>School of Earth and Space Exploration Faculty Resource Grid</a> by Dr. 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/safe_zone.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
 
