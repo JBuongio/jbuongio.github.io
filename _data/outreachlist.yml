@@ -1,0 +1,53 @@
+- title: "Science Salon"
+  id: science salon
+  image: Laguna_Negra.jpg
+  description: "To raise money for the labs devestated by the damage wrought by Hurrican Maria in 2016, we hosted a science salon fundraiser in partnership with Taste of Science, Knoxville."
+  imagefolder: https://jbuongio.github.io/images/tasteofscience
+  authors:
+  link:
+   url: https://jbuongio.github.io/scisalon
+   display: See photos
+  highlight: 1 
+  images:
+  - name: intro.jpg
+    thumb: thumb-intro.jpg
+    text: Jessica opened up our event with stories of what devastation hurricane Maria brought to Puerto Rico in September 2016, and reminded us of the amazing work Ciencia PR is doing to better science education in their community.
+  - name: intro2.jpg
+    thumb: thumb-intro2.jpg
+    text: 
+  - name: alani.jpg
+    thumb: thumb-alani.jpg
+    text: Alani Grace Grant showed us how conical microstructures on petals help pollinators scale upward, just like rock climbers.
+  - name: alani2.jpg
+    thumb: thumb-alani2.jpg
+    text: 
+  - name: cam.jpg
+    thumb: thumb-cam.jpg
+    text: Mallory Paige holds the mic for Cam Hughes as she mimes out normal block faulting at convergent margins.
+  - name: karissa.jpg
+    thumb: thumb-karissa.jpg
+    text: Karissa Cross took us on a journey beginning from life's origins. Take a deep breath and know that microbial diversity really is important for your health.
+  - name: karissa2.jpg
+    thumb: thumb-karissa2.jpg
+    text: 
+  - name: dance.jpg
+    thumb: thumb-dance.jpg
+    text: Sarah and crew wowed us with a dance your PhD play about tropical birds in a hybrid zone.
+  - name: dance3.jpg
+    thumb: thumb-dance3.jpg
+    text: 
+  - name: katie.jpg
+    thumb: thumb-katie.jpg
+    text: Katie Sipes shared her secret to a happy tummy-kombucha! We got to see a real SCOBE and taste her delicious brews.
+  - name: stephanie3.jpg
+    thumb: thumb-stephanie3.jpg
+    text: Stephanie Drumheller-Horton enraptured the crowd with her stories of obtaining bite marks on bones at the St. Augustine crocodile sanctuary.
+  - name: stephanie2.jpg
+    thumb: thumb-stephanie2.jpg
+    text: 
+  - name: group.jpg
+    thumb: thumb-group.jpg
+    text: Great turnout for a fun night of science and brews. 
+  - name: group2.jpg
+    thumb: thumb-group2.jpg
+    text: 
