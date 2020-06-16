@@ -61,7 +61,8 @@
   link:
    url: https://jbuongio.github.io/freedomschool
    display: See photos
-  highlight: 1    
+  highlight: 1  
+  images:  
   - name: circuits2.jpg
     thumb: thumb-circuits2.jpg
     text: Young scholars in Alcoa Awesome experiment with electricity and circuits using organge juice.
