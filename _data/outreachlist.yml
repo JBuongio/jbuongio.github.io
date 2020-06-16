@@ -1,6 +1,6 @@
 - title: "Science Salon"
   id: science salon
-  image: Laguna_Negra.jpg
+  image: tasteofsci.jpg
   description: "To raise money for the labs devestated by the damage wrought by Hurrican Maria in 2016, we hosted a science salon fundraiser in partnership with Taste of Science, Knoxville."
   imagefolder: https://jbuongio.github.io/images/tasteofscience
   authors:
@@ -51,3 +51,14 @@
   - name: group2.jpg
     thumb: thumb-group2.jpg
     text: 
+    
+- title: "East TN Freedom Schools"
+  id: freedom school
+  image: Laguna_Negra.jpg
+  description: "To raise money for the labs devestated by the damage wrought by Hurrican Maria in 2016, we hosted a science salon fundraiser in partnership with Taste of Science, Knoxville."
+  imagefolder: https://jbuongio.github.io/images/tasteofscience
+  authors:
+  link:
+   url: https://jbuongio.github.io/scisalon
+   display: See photos
+  highlight: 1     
