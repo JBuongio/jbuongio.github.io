@@ -82,13 +82,15 @@ Despite many programs, grants, and workshops aimed at increasing recruitment and
 As a STEM professional, I believe building my toolkit of allyship is an integral part of my job. Throughout my academic pursuits, I have been actively involved in numerous organizations and outreach programs to further the inclusion of women and minoritized students in STEM. I founded the Knoxville chapter of [500 Women Scientists](https://500womenscientists.org/updates/2017/4/12/knoxville-pod-of-the-week) in 2017 and through this, we provide scientific programming to young scholars of color in a partnership with [East Tennessee Freedom Schools](https://www.easttnfreedomschools.com/about1-c1x1t). In the wake of the devastating hurricane Maria in 2017, I organized a local science salon to raise money for researchers in hard-hit Puerto Rico. I was recognized as an extraordinary scientist advocate from the Union of Concerned Scientists for these efforts and have continued to place high priority on mentorship and outreach in my career. 
 
 **Selected resource compilations:**<br>
+- <a href='https://ascnhighered.org/ASCN/posts/dei_resources.html'>Start somewhere: Resources on equity and inclusion for STEM and higher education</a><br>
 - <a href='https://jbuongio.github.io/pdfs/ESS_ToolsRaceDiscussion_jcl_04092020.pdf'> Talking about Race in Earth and Space Science </a> compiled by <a href='https://scholar.google.com/citations?user=VOHXOvoAAAAJ&hl=en'>J. C. Lerback</a>.<br>
 - <a href='https://jbuongio.github.io/pdfs/Anti-racism_in_STEM_Academia_Self_Education_Resources.pdf'>Anti-racism in STEM & Academia Self Education Resources</a> by Aurora Roth, Kathleen McKee, Naomi Ochwat, and Anna Simpson. 
 <br>
 - <a href = 'https://docs.google.com/document/d/1gefAURNCvJJ3S7RutFX22vpfa47ouvQb0D82SKu0uJs/edit?usp=sharing'>School of Earth and Space Exploration Faculty Resource Grid</a> by Dr. Christy Till.<br>
-- <a href='https://www.shutdownstem.com/resources'>#ShutDownSTEM</a><br>
 - <a href='https://www.particlesforjustice.org/'>Particles for Justice</a><br>
-- <a href='https://ascnhighered.org/ASCN/posts/dei_resources.html'>Start somewhere: Resources on equity and inclusion for STEM and higher education</a><br>
+- <a href='https://www.shutdownstem.com/resources'>#ShutDownSTEM</a><br>
+
+
  
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/safe_zone.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
 
