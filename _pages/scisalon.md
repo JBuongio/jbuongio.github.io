@@ -1,6 +1,6 @@
 ---
 title: Science salon
 layout: piclay
-galleryid: science salon
+galleryid: science_salon
 permalink: /scisalon/
 --- 
