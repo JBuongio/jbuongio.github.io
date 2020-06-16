@@ -54,9 +54,9 @@
     
 - title: "East TN Freedom Schools"
   id: freedom school
-  image: Laguna_Negra.jpg
-  description: "To raise money for the labs devestated by the damage wrought by Hurrican Maria in 2016, we hosted a science salon fundraiser in partnership with Taste of Science, Knoxville."
-  imagefolder: https://jbuongio.github.io/images/tasteofscience
+  image: craft.jpg
+  description: "With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. The members of 500 Women Scientists enjoy a partnership with the East TN Freedom Schools in which we provide science programming to five area locations in Blount and Knox Counties." 
+  imagefolder: https://jbuongio.github.io/images/freedomschool
   authors:
   link:
    url: https://jbuongio.github.io/scisalon
