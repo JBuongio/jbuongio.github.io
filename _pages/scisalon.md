@@ -1,6 +1,6 @@
 ---
 title: Science salon
 layout: piclay
-galleryid: Argentina
+galleryid: science salon
 permalink: /scisalon/
 --- 
