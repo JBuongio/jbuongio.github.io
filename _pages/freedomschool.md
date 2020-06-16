@@ -1,6 +1,6 @@
 ---
 title: East TN Freedom School
 layout: piclay
-galleryid: Argentina
+galleryid: freedom school
 permalink: /freedomschool/
 --- 
