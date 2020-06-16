@@ -54,11 +54,49 @@
     
 - title: "East TN Freedom Schools"
   id: freedom school
-  image: craft.jpg
+  image: group.jpg
   description: "With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. The members of 500 Women Scientists enjoy a partnership with the East TN Freedom Schools in which we provide science programming to five area locations in Blount and Knox Counties." 
   imagefolder: https://jbuongio.github.io/images/freedomschool
   authors:
   link:
-   url: https://jbuongio.github.io/scisalon
+   url: https://jbuongio.github.io/freedomschool
    display: See photos
-  highlight: 1     
+  highlight: 1    
+  - name: circuits2.jpg
+    thumb: thumb-circuits2.jpg
+    text: Young scholars in Alcoa Awesome experiment with electricity and circuits using organge juice.
+  - name: curcuits.jpg
+    thumb: thumb-curcuits.jpg
+    text: 
+  - name: circuits3.jpg
+    thumb: thumb-circuits3.jpg
+    text: 
+  - name: draw.jpg
+    thumb: thumb-draw.jpg
+    text: Scholars make predications about what a piece of bread touched by clean vs. dirty hands will look like. 
+  - name: exp.jpg
+    thumb: thumb-exp.jpg
+    text: Our experimental set up.
+  - name: slime.jpg
+    thumb: thumb-slime.jpg
+    text: Making slime!
+  - name: slime2.jpg
+    thumb: thumb-slime2.jpg
+    text:
+  - name: slime2.jpg
+    thumb: thumb-slime2.jpg
+    text:  
+  - name: bucha.jpg
+    thumb: thumb-bucha.jpg
+    text: The scholars learned how to make kombucha (fermented tea). Pictured is the characterstic SCOBY (symbiotic consortium of bacteria and yeast) that forms the film on top of the kombucha liquid.
+  - name: columnsetup.jpg
+    thumb: thumb-columnsetup.jpg
+    text: We made Winogradsky columns to learn about biodiversity and the vast microbial world that resides in their backyards. 
+  - name: column.jpg
+    thumb: thumb-column.jpg
+    text: Beautifully stratified Winogradsky column with green photosynthetic bateria on top and a clear purple/pink band of microaerobic or anaeronic sulfur bacteria. 
+  - name: group.jpg
+    thumb: thumb-group.jpg
+    text: These amazing young scholars from the Alcoa stole my heart. I am so lucky to have had the chance to work with them. I hope that they stay engaged, inquisitive, and positive and grow into confident, conscientious members of their community.
+    
+   
