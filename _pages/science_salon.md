@@ -2,5 +2,5 @@
 title: Science salon
 layout: piclay
 galleryid: science_salon
-permalink: /scisalon/
+permalink: /science_salon/
 --- 
