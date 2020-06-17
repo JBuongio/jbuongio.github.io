@@ -1,0 +1,100 @@
+- title: "Science salon"
+  id: Science salon
+  image: tasteofsci.jpg
+  description: "To raise money for the labs devastated by the damage wrought by Hurrican Maria in 2016, 500 Women Scientists hosted a science salon fundraiser in partnership with Taste of Science in Knoxville, TN."
+  imagefolder: https://jbuongio.github.io/images/scisalon
+  authors:
+  link:
+   url: https://jbuongio.github.io/science_salon
+   display: See photos
+  highlight: 1 
+  images:
+  - name: intro.jpg
+    thumb: thumb-intro.jpg
+    text: Jessica opened up our event with stories of what devastation hurricane Maria brought to Puerto Rico in September 2016, and reminded us of the amazing work Ciencia PR is doing to better science education in their community.
+  - name: intro2.jpg
+    thumb: thumb-intro2.jpg
+    text: 
+  - name: alani.jpg
+    thumb: thumb-alani.jpg
+    text: Alani Grace Grant showed us how conical microstructures on petals help pollinators scale upward, just like rock climbers.
+  - name: alani2.jpg
+    thumb: thumb-alani2.jpg
+    text: 
+  - name: cam.jpg
+    thumb: thumb-cam.jpg
+    text: Mallory Paige holds the mic for Cam Hughes as she mimes out normal block faulting at convergent margins.
+  - name: karissa.jpg
+    thumb: thumb-karissa.jpg
+    text: Karissa Cross took us on a journey beginning from life's origins. Take a deep breath and know that microbial diversity really is important for your health.
+  - name: karissa2.jpg
+    thumb: thumb-karissa2.jpg
+    text: 
+  - name: dance.jpg
+    thumb: thumb-dance.jpg
+    text: Sarah and crew wowed us with a dance your PhD play about tropical birds in a hybrid zone.
+  - name: dance3.jpg
+    thumb: thumb-dance3.jpg
+    text: 
+  - name: katie.jpg
+    thumb: thumb-katie.jpg
+    text: Katie Sipes shared her secret to a happy tummy-kombucha! We got to see a real SCOBE and taste her delicious brews.
+  - name: stephanie3.jpg
+    thumb: thumb-stephanie3.jpg
+    text: Stephanie Drumheller-Horton enraptured the crowd with her stories of obtaining bite marks on bones at the St. Augustine crocodile sanctuary.
+  - name: stephanie2.jpg
+    thumb: thumb-stephanie2.jpg
+    text: 
+  - name: group.jpg
+    thumb: thumb-group.jpg
+    text: Great turnout for a fun night of science and brews. 
+  - name: group2.jpg
+    thumb: thumb-group2.jpg
+    
+- title: "East TN Freedom Schools"
+  id: Freedom school
+  image: group.jpg
+  description: "With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. The members of 500 Women Scientists enjoy a partnership with the East TN Freedom Schools in which we provide science programming to five area locations in Blount and Knox Counties." 
+  imagefolder: https://jbuongio.github.io/images/FSpic
+  authors:
+  link:
+   url: https://jbuongio.github.io/freedomschool
+   display: See photos
+  highlight: 1 
+  images:
+  - name: circuits2.jpg
+    thumb: thumb-circuits2.jpg
+    text: Young scholars in Alcoa Awesome experiment with electricity and circuits using organge juice.
+  - name: curcuits.jpg
+    thumb: thumb-curcuits.jpg
+    text: 
+  - name: circuits3.jpg
+    thumb: thumb-circuits3.jpg
+    text: 
+  - name: draw.jpg
+    thumb: thumb-draw.jpg
+    text: Scholars make predications about what a piece of bread touched by clean vs. dirty hands will look like. 
+  - name: exp.jpg
+    thumb: thumb-exp.jpg
+    text: Our experimental set up.
+  - name: slime.jpg
+    thumb: thumb-slime.jpg
+    text: Making slime!
+  - name: slime2.jpg
+    thumb: thumb-slime2.jpg
+    text:
+  - name: slime2.jpg
+    thumb: thumb-slime2.jpg
+    text:  
+  - name: bucha.jpg
+    thumb: thumb-bucha.jpg
+    text: The scholars learned how to make kombucha (fermented tea). Pictured is the characterstic SCOBY (symbiotic consortium of bacteria and yeast) that forms the film on top of the kombucha liquid.
+  - name: columnsetup.jpg
+    thumb: thumb-columnsetup.jpg
+    text: We made Winogradsky columns to learn about biodiversity and the vast microbial world that resides in their backyards. 
+  - name: column.jpg
+    thumb: thumb-column.jpg
+    text: Beautifully stratified Winogradsky column with green photosynthetic bateria on top and a clear purple/pink band of microaerobic or anaeronic sulfur bacteria. 
+  - name: group.jpg
+    thumb: thumb-group.jpg
+    text: These amazing young scholars from the Alcoa stole my heart. I am so lucky to have had the chance to work with them. I hope that they stay engaged, inquisitive, and positive and grow into confident, conscientious members of their community.
