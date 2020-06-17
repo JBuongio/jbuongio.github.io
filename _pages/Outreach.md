@@ -31,7 +31,7 @@ permalink: /outreach/
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/outreach/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p>{{ publi.authors }}. </p> 
+  <p>{{ publi.authors }} </p> 
   <p style="font-size:170%;">{{ publi.year }}
    <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
