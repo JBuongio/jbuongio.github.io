@@ -7,7 +7,7 @@
   link:
    url: https://jbuongio.github.io/science_salon
    display: See photos
-  highlight: 1 
+  highlight: 1
   images:
   - name: intro.jpg
     thumb: thumb-intro.jpg
@@ -60,7 +60,7 @@
   link:
    url: https://jbuongio.github.io/freedomschool
    display: See photos
-  highlight: 1 
+  highlight: 1
   images:
   - name: circuits2.jpg
     thumb: thumb-circuits2.jpg
