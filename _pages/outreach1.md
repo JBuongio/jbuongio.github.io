@@ -1,7 +1,7 @@
 ---
 title: "Joy Buongiorno - Outreach"
 layout: gridlay
-excerpt: "Joy Buongiorno - Outreach"
+excerpt: "Joy Buongiorno -- Outreach"
 sitemap: false
 permalink: /outreach/
 ---
