@@ -51,7 +51,7 @@
   - name: group2.jpg
     thumb: thumb-group2.jpg
     text: 
-    
+
 - title: "East TN Freedom Schools"
   id: Freedom school
   image: group.jpg
@@ -61,8 +61,8 @@
   link:
    url: https://jbuongio.github.io/freedomschool
    display: See photos
-  highlight: 1  
-  images:  
+  highlight: 1 
+  images:
   - name: circuits2.jpg
     thumb: thumb-circuits2.jpg
     text: Young scholars in Alcoa Awesome experiment with electricity and circuits using organge juice.
