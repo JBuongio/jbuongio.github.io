@@ -1,6 +1,6 @@
 ---
-title: East TN Freedom School
+title: East TN Freedom Schools
 layout: piclay
-galleryid: freedom_school
+galleryid: Freedom school
 permalink: /freedomschool/
 --- 
