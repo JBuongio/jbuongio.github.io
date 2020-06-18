@@ -1,56 +1,22 @@
 ---
-title: "Joy Buongiorno - Outreach"
-layout: gridlay
-excerpt: "Joy Buongiorno - Outreach"
+title: "Outreach - being updated
+layout: textlay
+excerpt: "Joy Buongiorno -- Outreach"
 sitemap: false
 permalink: /outreach/
 ---
 
+_Outreach statement: Scientists have a community mandate to engage with the public and foster a greater understanding and appreciation for science. Ensuring wide-spread scientific literacy is one of the key factors in maintaining a strong democracy. I am passionate about the democratization of knowledge and keeping knowledge, and therefore power, in the hands of the people. Here are highlights of some of those efforts._ 
 
-# Outreach
+
+# Outreach activities
+
+**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).
+
+**2018** 500 Women Scientists KnoxPod provided science programming for five area Freedom School locations. With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. Photos of our first summer together can be found [here](https://photos.app.goo.gl/Ca524udTBNJ1SeuQ9).
+
+**2017** To raise money for the labs devastated by the damage wrought by Hurrican Maria in 2016, [500 Women Scientists](https://500womenscientists.org/science-salons-puerto-rico) hosted a science salon fundraiser in partnership with Taste of Science in Knoxville, TN. Money raised went to [Ciencia PR](https://www.cienciapr.org/). See images from the event [here](https://photos.app.goo.gl/DNEkZwuLTYtipmnz8)
 
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.outreachlist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<style>
-        .well {
-            background-color: rgb(250, 246, 255);
-        }
-    </style>
-    
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/outreach/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p>{{ publi.authors }} </p> 
-  <p style="font-size:170%;">{{ publi.year }}
-   <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
+<br>
