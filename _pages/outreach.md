@@ -25,7 +25,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 **2017** Kate, Lauren and I visit the K - 5th graders at Sunbright Elementary in rural Morgan Co., TN. We talked about space trave and shot off rockets! Photos [here](https://photos.app.goo.gl/jTenoGnLESZjaGyM8). <br>
 
 **2017** Ashley, Alex, Anu, and I all visited Bearden Elementary (Knox Co., TN) where we taught 5th grade students about what a geologist does. Of course, we made baking soda volcanoes!
-<p style="text-align: center"><img src='/images/blogpic/bearden.png' style='max-width: 500px' /><br/></p>
+<p style="text-align: center"><img src='/images/blogpic/bearden.png' style='max-width: 500px' /> <br/></p>
 
  
 
