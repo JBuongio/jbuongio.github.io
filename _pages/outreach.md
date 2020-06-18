@@ -22,6 +22,9 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 **2017** Chelsea and I visited Camp Creek Elementary, a rural school on the foothills of mountains of North Carolina. We shared how DNA works and extracted strawberry DNA with them. <br>
 <p style="text-align: center"><img src='/images/blogpic/straw.png' style='max-width: 500px' /><br/></p>
 
-**2017** Kate, Lauren and I visit the K - 5th graders at Sunbright Elementary in rural Morgan Co., TN. We talked about space trave and shot off rockets! Photos [here](https://photos.app.goo.gl/jTenoGnLESZjaGyM8).  
+**2017** Kate, Lauren and I visit the K - 5th graders at Sunbright Elementary in rural Morgan Co., TN. We talked about space trave and shot off rockets! Photos [here](https://photos.app.goo.gl/jTenoGnLESZjaGyM8). <br>
+<p style="text-align: center"><img src='/images/blogpic/bearden.png' style='max-width: 500px' /><br/></p>
+
+ 
 
 <br>
