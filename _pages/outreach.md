@@ -6,7 +6,7 @@ sitemap: false
 permalink: /outreach/
 ---
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/blogpic/sagan.png){: style="width: 40%; float: center; border: 3px"}<br>
+![]({{ site.url }}{{ site.baseurl }}/images/blogpic/sagan.png){: style="width: 40%; align: center; border: 3px"}<br>
 
 _Outreach statement: Scientists have a community mandate to engage with the public and foster a greater understanding and appreciation for science. Ensuring wide-spread scientific literacy is one of the key factors in maintaining a strong democracy. I am passionate about the democratization of knowledge and keeping knowledge, and therefore power, in the hands of the people. Here are highlights of some of those efforts._ 
 
