@@ -19,6 +19,7 @@ _Outreach statement: Scientists have a community mandate to engage with the publ
 
 **2017** To raise money for the labs devastated by the damage wrought by Hurrican Maria in 2016, [500 Women Scientists](https://500womenscientists.org/science-salons-puerto-rico) hosted a science salon fundraiser in partnership with Taste of Science in Knoxville, TN. Money raised went to [Ciencia PR](https://www.cienciapr.org/). See images from the event [here](https://photos.app.goo.gl/DNEkZwuLTYtipmnz8)
 
-**2017** Chelsea and I visited Camp Creek Elementary, a rural school on the foothills of mountains of North Carolina. We shared how DNA works and extracted strawberry DNA. 
+**2017** Chelsea and I visited Camp Creek Elementary, a rural school on the foothills of mountains of North Carolina. We shared how DNA works and extracted strawberry DNA. <br>
+<img src='/images/blogpic/straw.png' style='max-width: 192px' /><br/>"
 
 <br>
