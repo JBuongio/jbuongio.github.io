@@ -1,5 +1,5 @@
 ---
-title: "Outreach - being updated
+title: "Outreach - being updated"
 layout: textlay
 excerpt: "Joy Buongiorno -- Outreach"
 sitemap: false
