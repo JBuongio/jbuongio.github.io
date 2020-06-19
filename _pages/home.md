@@ -24,11 +24,11 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
     </ol>
 
     <!-- Items -->
-    .carousel-inner > .item {
+ 
+    <div class="carousel-inner" markdown="0">
+   .carousel-inner > .item {
    height: 400px;
 }
-    <div class="carousel-inner" markdown="0">
-
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" alt="Slide 1" />
         </div>
