@@ -37,7 +37,7 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" style="width:100%; height: 400px;" alt="Slide 3"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg"style="width:100%; height: 400px;" alt="Slide 4"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg" style="width:100%; height: 400px;" alt="Slide 4"  />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" style="width:100%; height: 400px;" alt="Slide 5"/>
