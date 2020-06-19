@@ -30,28 +30,28 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_photo_in_survival_suits.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_photo_in_survival_suits.jpg" alt="Slide 2" height="480" width="640" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" alt="Slide 3" height="480" width="640" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg" alt="Slide 4" height="480" width="640" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" alt="Slide 5" height="480" width="640"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fumaroles.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fumaroles.jpg" alt="Slide 6" height="480" width="640"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" alt="Slide 7" height="480" width="640"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" alt="Slide 8" height="480" width="640" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting.jpg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting.jpg" alt="Slide 9" height="480" width="640" />
         </div>               
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
