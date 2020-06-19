@@ -24,6 +24,9 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
     </ol>
 
     <!-- Items -->
+    .carousel-inner > .item {
+   height: 400px;
+}
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
