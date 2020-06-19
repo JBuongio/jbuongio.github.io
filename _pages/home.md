@@ -28,31 +28,31 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" style="width:100%; height: 400px;" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_photo_in_survival_suits.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_photo_in_survival_suits.jpg" style="width:100%; height: 400px;" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" alt="Slide 3"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/walrus3_orig.jpg" style="width:100%; height: 400px;" alt="Slide 3"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg" alt="Slide 4"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LN.jpg"style="width:100%; height: 400px;" alt="Slide 4"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" alt="Slide 5"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/salina.jpg" style="width:100%; height: 400px;" alt="Slide 5"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fumaroles.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fumaroles.jpg" style="width:100%; height: 400px;" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" style="width:100%; height: 400px;" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" alt="Slide 8"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" style="width:100%; height: 400px;" alt="Slide 8"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting_orig.jpg" alt="Slide 9"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting_orig.jpg" style="width:100%; height: 400px;" alt="Slide 9"  />
         </div>               
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
