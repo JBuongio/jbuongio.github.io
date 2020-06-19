@@ -25,7 +25,7 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
 
     <!-- Items -->
  
-    <div class="carousel-inner" markdown="0" style="width: 200px; height=200px">
+    <div class="carousel-inner" style="width: 200px; height=200px" margin:0 auto>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/glacier.jpg" alt="Slide 1" />
         </div>
