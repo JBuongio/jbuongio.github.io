@@ -51,7 +51,7 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" alt="Slide 8" height="480" width="640" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting.png" alt="Slide 9" height="480" width="640" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting_orig.jpg" alt="Slide 9" height="480" width="640" />
         </div>               
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
