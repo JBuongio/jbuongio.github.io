@@ -12,7 +12,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 
 # Outreach activities
-**2020** I was a STEM fair judge at the J.G. Whittier School in Washington, DC. One of the students learned "the process of growing bacteria is time-consuming" -- this speaks to me as a subsurface biosphere researcher. One my favorite projects tested the efficacy of lip gloss...which speaks to me a as a gigantic lover of make-up. <br><p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /> <br>
+**2020** I was a STEM fair judge at the J.G. Whittier School in Washington, DC. One of the students learned "the process of growing bacteria is time-consuming" -- this speaks to me as a subsurface biosphere researcher. One my favorite projects tested the efficacy of lip gloss...which speaks to me a as a gigantic lover of make-up. <br><p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /> <br></p>
 
 **2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).
 
