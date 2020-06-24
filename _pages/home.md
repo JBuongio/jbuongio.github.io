@@ -88,6 +88,7 @@ As a STEM professional, I believe building my toolkit of allyship is an integral
 - <a href='https://jbuongio.github.io/pdfs/Anti-racism_in_STEM_Academia_Self_Education_Resources.pdf'>Anti-racism in STEM & Academia Self Education Resources</a> by Aurora Roth, Kathleen McKee, Naomi Ochwat, and Anna Simpson. 
 <br>
 - <a href = 'https://docs.google.com/document/d/1gefAURNCvJJ3S7RutFX22vpfa47ouvQb0D82SKu0uJs/edit?usp=sharing'>School of Earth and Space Exploration Faculty Resource Grid</a> by Dr. Christy Till.<br>
+- <a href = 'https://serc.carleton.edu/advancegeo/resources/index.html'> ADVANCEGeo Partnership</a>
 - <a href='https://www.particlesforjustice.org/'>Particles for Justice</a><br>
 - <a href='https://www.shutdownstem.com/resources'>#ShutDownSTEM</a><br>
 
