@@ -65,7 +65,7 @@ I am an environmental geomicrobiologist and postdoctoral researcher at the [Eart
   </a>
 </div>
 
-I am working on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/) at the [Earth and Planets Laboratory at Carnegie Institution for Science](https://dtm.carnegiescience.edu/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support resilient, just, and sustainable Arctic in motion. I'm also a lead instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
+I am working on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/) at the [Earth and Planets Laboratory at Carnegie Institution for Science](https://dtm.carnegiescience.edu/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. I'm also a lead instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
 
 I received my B.Sc. in Biology (2011) from Tennessee Technlogical University. I received my M.Sc. in Geoscience (2014) and Ph.D. in Microbiology (2018) from the University of Tennessee, Knoxville. I began my postdoctoral appointment under the co-advisement of Dr. Robert Hazen and Dr. Donato Giovannelli in 2019.
 
