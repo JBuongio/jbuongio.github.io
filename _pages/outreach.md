@@ -18,9 +18,11 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 **2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).
 
-**2018** 500 Women Scientists KnoxPod provided science programming for five area Freedom School locations. With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. Photos of our first summer together can be found [here](https://photos.app.goo.gl/Ca524udTBNJ1SeuQ9).
+**2018** 500 Women Scientists KnoxPod provided science programming for five area Freedom School locations. With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. Photos of our first summer together can be found [here](https://photos.app.goo.gl/Ca524udTBNJ1SeuQ9).<br>
+<p style="text-align: center"><img src='/images/blogpic/coloring.jpg' style='max-width: 500px' /><br/></p>
 
-**2017** To raise money for the labs devastated by the damage wrought by Hurrican Maria in 2016, [500 Women Scientists](https://500womenscientists.org/science-salons-puerto-rico) hosted a science salon fundraiser in partnership with Taste of Science in Knoxville, TN. Money raised went to [Ciencia PR](https://www.cienciapr.org/). See images from the event [here](https://photos.app.goo.gl/DNEkZwuLTYtipmnz8)
+**2017** To raise money for the labs devastated by the damage wrought by Hurrican Maria in 2016, [500 Women Scientists](https://500womenscientists.org/science-salons-puerto-rico) hosted a science salon fundraiser in partnership with Taste of Science in Knoxville, TN. Money raised went to [Ciencia PR](https://www.cienciapr.org/). See images from the event [here](https://photos.app.goo.gl/DNEkZwuLTYtipmnz8)<br>
+<p style="text-align: center"><img src='/images/blogpic/cam.jpg' style='max-width: 500px' /><br/></p>
 
 **2017** Chelsea and I visited Camp Creek Elementary, a rural school on the foothills of mountains of North Carolina. We shared how DNA works and extracted strawberry DNA with them. <br>
 <p style="text-align: center"><img src='/images/blogpic/straw.png' style='max-width: 500px' /><br/></p>
