@@ -12,6 +12,9 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 
 # Outreach activities
+**2020** Due to the Coronavirus, East TN Freedom Schools have gone virtual this summer. Members of 500 Women Scientists are making sure that the young scholars continue to learn and grow their STEM skills by recording videos, [like this one](https://drive.google.com/file/d/1DM18L9Y0syPZu7t1-16vLzylaKJdkRyV/view?usp=sharing), in which I extract DNA from strawberries in my new laboratory. <br>
+<p style="text-align: center"><img src='/images/blogpic/video_grab.png' style='max-width: 500px' /><br/></p>
+
 **2020** I was a STEM fair judge at the J.G. Whittier School in Washington, DC. One of the students learned "the process of growing bacteria is time-consuming" -- this speaks to me as a subsurface biosphere researcher. One my favorite projects tested the efficacy of lip gloss...which speaks to me a as a gigantic lover of make-up. <br>
 <p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /><br/></p>
 
