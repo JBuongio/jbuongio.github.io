@@ -34,11 +34,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 **2017** Ashley, Alex, Anu, and I all visited Bearden Elementary (Knox Co., TN) where we taught 5th grade students about what a geologist does. Of course, we made baking soda volcanoes!
 <p style="text-align: center"><img src='/images/blogpic/bearden.png' style='max-width: 500px' /> <br>
-<figure class="video_container"> 
-  <video controls="true" allowfullscreen="true" poster="/images/volcanopic/poster.png">
-    <video width="100" height="100">
-    <video muted>
-     <source src="/images/volcanopic/video.mp4" type="video/mp4">
-  </video>
-</figure>
+<video controls muted>
+  <source src="/images/volcanopic/video.mp4" type="video/mp4">
+</video>
 </p>
