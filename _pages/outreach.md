@@ -19,8 +19,8 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 <p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /><br/></p>
 
 
-**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).<br>
-<p style="text-align: center"><img src='/images/blogpic/CASE2.jpg' style='max-width: 500px' /><br/></p>
+**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe.<br>
+<p style="text-align: center"><img src='/images/blogpic/CASE2.png' style='max-width: 500px' /><br/></p>
 <video src="/images/volcanopic/CASE3.mp4" width ="360" height = "240" muted controls>
 </video>
 
