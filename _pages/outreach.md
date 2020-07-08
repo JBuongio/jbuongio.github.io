@@ -19,7 +19,10 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 <p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /><br/></p>
 
 
-**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).
+**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).<br>
+<p style="text-align: center"><img src='/images/blogpic/CASE2.jpg' style='max-width: 500px' /><br/></p>
+<video src="/images/volcanopic/CASE3.mp4" width ="360" height = "240" muted controls>
+</video>
 
 **2018** 500 Women Scientists KnoxPod provided science programming for five area Freedom School locations. With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. Photos of our first summer together can be found [here](https://photos.app.goo.gl/Ca524udTBNJ1SeuQ9).<br>
 <p style="text-align: center"><img src='/images/blogpic/coloring.jpg' style='max-width: 500px' /><br/></p>
