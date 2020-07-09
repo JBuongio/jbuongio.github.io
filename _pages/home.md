@@ -91,6 +91,8 @@ As a STEM professional, I believe building my toolkit of allyship is an integral
 - <a href = 'https://serc.carleton.edu/advancegeo/resources/index.html'> ADVANCEGeo Partnership</a>
 - <a href='https://www.particlesforjustice.org/'>Particles for Justice</a><br>
 - <a href='https://www.shutdownstem.com/resources'>#ShutDownSTEM</a><br>
+- <a href='https://implicit.harvard.edu/implicit/takeatest.html'> Test your implicit bias</a><br>
+- <a href='https://www.higheredtoday.org/2016/07/27/understanding-and-combatting-microaggressions-in-postsecondary-education/'>Recognize Microagressions on Campus</a><br>
 
 
  
