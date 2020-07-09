@@ -93,6 +93,7 @@ As a STEM professional, I believe building my toolkit of allyship is an integral
 - <a href='https://www.shutdownstem.com/resources'>#ShutDownSTEM</a><br>
 - <a href='https://implicit.harvard.edu/implicit/takeatest.html'> Test your implicit bias</a><br>
 - <a href='https://www.higheredtoday.org/2016/07/27/understanding-and-combatting-microaggressions-in-postsecondary-education/'>Recognize Microagressions on Campus</a><br>
+- <a href='https://docs.google.com/spreadsheets/d/10WHduTLtkrVXSOfjw7hm3A-PQZddcmC9XF6t8NeVsOw/edit#gid=0'>Diverse STEM researcher compilation by Dr. Melanie Melendrez-Vallard</a><br>
 
 
  
