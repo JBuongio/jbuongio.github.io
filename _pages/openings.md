@@ -1,5 +1,5 @@
 ---
-title: "Giovannelli Lab - Vacancies"
+title: "Vacancies""
 layout: textlay
 excerpt: "Openings"
 sitemap: false

@@ -12,14 +12,18 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 
 # Outreach activities
-**2020** Due to the Coronavirus, East TN Freedom Schools have gone virtual this summer. Members of 500 Women Scientists are making sure that the young scholars continue to learn and grow their STEM skills by recording videos, [like this one](https://drive.google.com/file/d/1DM18L9Y0syPZu7t1-16vLzylaKJdkRyV/view?usp=sharing), in which I extract DNA from strawberries in my new laboratory. <br>
+**2020** Due to the Coronavirus, East TN Freedom Schools have gone virtual this summer. Members of 500 Women Scientists are making sure that the young scholars continue to learn and grow their STEM skills at home by recording videos, [like this one](https://drive.google.com/file/d/1DM18L9Y0syPZu7t1-16vLzylaKJdkRyV/view?usp=sharing), in which I extract DNA from strawberries in my new laboratory and [this one](https://drive.google.com/file/d/1QC8WEb7No1vorOeJaSrP1jtZ53PAdRYG/view?usp=sharing) in which I demonstrate the natural cabbage pH indicator. <br>
 <p style="text-align: center"><img src='/images/blogpic/video_grab.png' style='max-width: 500px' /><br/></p>
 
 **2020** I was a STEM fair judge at the J.G. Whittier School in Washington, DC. One of the students learned "the process of growing bacteria is time-consuming" -- this speaks to me as a subsurface biosphere researcher. One my favorite projects tested the efficacy of lip gloss...which speaks to me a as a gigantic lover of make-up. <br>
 <p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /><br/></p>
 
 
-**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe. [Photos](https://photos.app.goo.gl/WzM4zrKPNh6AhcyX6).
+**2019** I volunteered with First Light program within Carnegie Academy for Science Education (CASE) boosts science education for inner city youth in Washington, DC through hands-on learning. We learned about the vastness of outer space and our tiny place in the Universe.<br>
+<p style="text-align: center"><img src='/images/blogpic/CASE2.png' style='max-width: 500px' /><br>
+<video src="/images/blogpic/CASE3.mp4" width ="360" height = "240" muted controls>
+</video>
+</p>
 
 **2018** 500 Women Scientists KnoxPod provided science programming for five area Freedom School locations. With a legacy tracing back to the Civil Rights movement, Freedom Schools were created to furnish African American communities in the South with opportunities to achieve social, political, and economic equality in the US. Photos of our first summer together can be found [here](https://photos.app.goo.gl/Ca524udTBNJ1SeuQ9).<br>
 <p style="text-align: center"><img src='/images/blogpic/coloring.jpg' style='max-width: 500px' /><br/></p>
@@ -33,8 +37,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 **2017** Kate, Lauren and I visit the K - 5th graders at Sunbright Elementary in rural Morgan Co., TN. We talked about space trave and shot off rockets! Photos [here](https://photos.app.goo.gl/jTenoGnLESZjaGyM8). <br>
 
 **2017** Ashley, Alex, Anu, and I all visited Bearden Elementary (Knox Co., TN) where we taught 5th grade students about what a geologist does. Of course, we made baking soda volcanoes!
-<p style="text-align: center"><img src='/images/blogpic/bearden.png' style='max-width: 500px' /> <br><video  width="320" height="240" controls> <source src='https://jbuongio.github.io/images/volcanopic/video.mp4' type=video/mp4></video><br/></p>
-
- 
-
-<br>
+<p style="text-align: center"><img src='/images/blogpic/bearden.png' style='max-width: 500px' /> <br>
+<video src="/images/volcanopic/video.mp4" width ="360" height = "240" muted controls>
+</video>
+</p>
