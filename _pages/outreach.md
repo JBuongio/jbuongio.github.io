@@ -13,7 +13,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 # Outreach activities
 **2020** Due to the Coronavirus, East TN Freedom Schools have gone virtual this summer. Members of 500 Women Scientists are making sure that the young scholars continue to learn and grow their STEM skills at home by recording videos, [like this one](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing), in which I extract DNA from strawberries in my new laboratory and [this one](https://drive.google.com/file/d/1F33Row0ZAtCERadzK78gmDfsESrvzrcy/view?usp=sharing) in which I demonstrate the natural cabbage pH indicator. <br>
-<p style="text-align: center"><img src='/images/blogpic/video_grab.png' style='max-width: 500px' /><br/></p>
+<p style="text-align: center">[<img src='/images/blogpic/video_grab.png' style='max-width: 500px' />](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing)[<img src='/images/blogpic/video_grab2.png' style='max-width: 500px' />](https://drive.google.com/file/d/1F33Row0ZAtCERadzK78gmDfsESrvzrcy/view?usp=sharing) <br/></p>
 
 **2020** I was a STEM fair judge at the J.G. Whittier School in Washington, DC. One of the students learned "the process of growing bacteria is time-consuming" -- this speaks to me as a subsurface biosphere researcher. One my favorite projects tested the efficacy of lip gloss...which speaks to me a as a gigantic lover of make-up. <br>
 <p style="text-align: center"><img src='/images/blogpic/fair.png' style='max-width: 500px' /><br/></p>
