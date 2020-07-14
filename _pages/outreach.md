@@ -13,7 +13,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 # Outreach activities
 **2020** Due to the Coronavirus, East TN Freedom Schools have gone virtual this summer. Members of 500 Women Scientists are making sure that the young scholars continue to learn and grow their STEM skills at home by recording videos. 
--[In this one](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing), I extract DNA from strawberries in my new laboratory. <br>
+<br>-[In this one](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing), I extract DNA from strawberries in my new laboratory. <br>
 <p style="text-align: center">[<img src='/images/blogpic/video_grab.png' style='max-width: 500px' />](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing)</p><br>
 -[In this one](https://drive.google.com/file/d/1F33Row0ZAtCERadzK78gmDfsESrvzrcy/view?usp=sharing), I demonstrate the natural cabbage pH indicator. 
 <p style="text-align: center">[<img src='/images/blogpic/video_grab2.png' style='max-width: 500px' />](https://drive.google.com/file/d/1F33Row0ZAtCERadzK78gmDfsESrvzrcy/view?usp=sharing)</p><br>
