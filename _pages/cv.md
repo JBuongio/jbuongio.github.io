@@ -44,13 +44,13 @@ Agouron Institute
 
 _In Press,_ Morrison, S.M., **Buongiorno, J.** , Downs, R.T., Eleish, A., Fox, P., Giovannelli, D., Golden, J.T., Hummer, D.R., Hystad, G., Kellogg, L.H., Kreylos, O., Krivovichev, S., Liu, C., Merdith, A., Prabhu, A., Ralph, J., Runyon, S., Zahirovic, S., Hazen, R.M., Visualizing carbon mineral systems: Recent advances in C mineral evolution, mineral ecology, and network analysis. (_Frontiers in Earth Science_).
 
-_Under Review_, Lloyd, K.G., Bird, J.T., **Buongiorno, J.** , Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T., Slow population turnover rates of uncultured archaea and bacteria in marine sediments. _Applied and Environmental Microbiology_. Pre-print:: Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments. Pre-print:: bioRxiv. doi: [https://doi.org/10.1101/2020.03.24.005512](https://doi.org/10.1101/2020.03.24.005512)
+_Accepted_, Lloyd, K.G., Bird, J.T., **Buongiorno, J.** , Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T., Slow population turnover rates of uncultured archaea and bacteria in marine sediments. _Applied and Environmental Microbiology_. Pre-print:: Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments. Pre-print:: bioRxiv. doi: [https://doi.org/10.1101/2020.03.24.005512](https://doi.org/10.1101/2020.03.24.005512)
 
 _Accepted,_ Nayfach, S., Roux, S., … IMG/M Data Consortium. A Genomic Catalogue of Earth&#39;s Microbiomes. _Nature Biotechnology._
 
 _In preparation,_ **Buongiorno, J.,** Giovannelli, D., Morrison, S., Hazen, R., Falkowski, P., Tectonics, metal availability and the evolution of biogeochemistry (_Nature Geoscience_).
 
-_Submitted_, **Buongiorno J**., Wasmund K., Loy A., Lloyd K.G., Woeseiales transcriptional response in Arctic fjord surface sediment (PlosOne). Pre-print:: bioRxiv doi: [https://doi.org/10.1101/2020.06.04.134015](https://doi.org/10.1101/2020.06.04.134015).
+_Accepted_, **Buongiorno J**., Wasmund K., Loy A., Lloyd K.G., Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment (PlosOne). Pre-print:: bioRxiv doi: [https://doi.org/10.1101/2020.06.04.134015](https://doi.org/10.1101/2020.06.04.134015).
 
 _Under Review_, Fullerton, K. M., Schrenk, M., Yucel, M., Manini, E., Marco, B., Rogers, T. J., **Buongiorno, J.** … Lloyd, K. (2019, October 13). Plate tectonics drive deep biosphere microbial community structure. Pre-print:: EarthRxiv doi: [https://doi.org/10.31223/osf.io/gyr7n](https://doi.org/10.31223/osf.io/gyr7n) (_Nature_).
 
