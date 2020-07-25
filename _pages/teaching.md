@@ -6,9 +6,9 @@ sitemap: false
 permalink: /teaching/
 ---
 
-#Teaching
+# Teaching
 
-##Fall 2020
+## Fall 2020
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.classlist %}
