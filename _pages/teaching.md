@@ -29,7 +29,9 @@ permalink: /teaching/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  <kbd>
   <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
+  </kbd>
   <p>{{ publi.description }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p>{{ publi.authors }}. {{ publi.year }}.
