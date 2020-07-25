@@ -26,7 +26,7 @@ permalink: /teaching/
         }
     </style>
     
-<div class="col-xs-9 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
 
