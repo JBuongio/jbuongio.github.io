@@ -7,6 +7,7 @@ permalink: /teaching/
 ---
 
 #Teaching
+
 ##Fall 2020
 
 {% assign number_printed = 0 %}
