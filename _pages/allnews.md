@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Joy Buongiorno, Earth and Planets Laboratory, Carnegie Institution for Science'"
+excerpt: "Joy Buongiorno"
 sitemap: false
 permalink: /allnews.html
 ---
