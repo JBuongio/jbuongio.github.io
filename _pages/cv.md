@@ -10,21 +10,21 @@ permalink: /cv/
 
 <p align="center"><b>Joy Buongiorno (Altom)</b><br>
 
-5251 Broad Branch Rd NW, Washington, DC 20015
+502 E. Lamar Alexander Parkway <br> Maryville, TN 37804<br>
 
-jbuongiorno@carnegiescience.edu</p>
+joy.buongiorno@maryvillecollege.edu</p>
 
 **Employment**
 
 Maryville College
 
-- Assistant Professor of Environmental Biology, August 2020
+- Assistant Professor of Environmental Biology, 2020 - present
 
 **Education and Professional Experience**
 
 Carnegie Institution of Washington, Geophysical Laboratory
 
-- Postdoctoral Research Fellow, Jan. 2019 - present
+- Postdoctoral Research Fellow, 2019 - 2020
 
 University of Tennessee, Knoxville
 
@@ -50,9 +50,9 @@ _Accepted,_ Nayfach, S., Roux, S., … IMG/M Data Consortium. A Genomic Catalogu
 
 _In preparation,_ **Buongiorno, J.,** Giovannelli, D., Morrison, S., Hazen, R., Falkowski, P., Tectonics, metal availability and the evolution of biogeochemistry (_Nature Geoscience_).
 
-_Accepted_, **Buongiorno J**., Wasmund K., Loy A., Lloyd K.G., Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment (PlosOne). Pre-print:: bioRxiv doi: [https://doi.org/10.1101/2020.06.04.134015](https://doi.org/10.1101/2020.06.04.134015).
+_Under revision_, **Buongiorno J**., Wasmund K., Loy A., Lloyd K.G., Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment (PlosOne). Pre-print:: bioRxiv doi: [https://doi.org/10.1101/2020.06.04.134015](https://doi.org/10.1101/2020.06.04.134015).
 
-_Under Review_, Fullerton, K. M., Schrenk, M., Yucel, M., Manini, E., Marco, B., Rogers, T. J., **Buongiorno, J.** … Lloyd, K. (2019, October 13). Plate tectonics drive deep biosphere microbial community structure. Pre-print:: EarthRxiv doi: [https://doi.org/10.31223/osf.io/gyr7n](https://doi.org/10.31223/osf.io/gyr7n) (_Nature_).
+_Under revision_, Fullerton, K. M., Schrenk, M., Yucel, M., Manini, E., Marco, B., Rogers, T. J., **Buongiorno, J.** … Lloyd, K. (2019, October 13). Plate tectonics drive deep biosphere microbial community structure. Pre-print:: EarthRxiv doi: [https://doi.org/10.31223/osf.io/gyr7n](https://doi.org/10.31223/osf.io/gyr7n) (_Nature_).
 
 Co-signatory: Next generation of polar researchers agree on three priorities (2019). Nature, 570(36). doi: 10.1038/d41586-019-01718-1. Outcome of the Next Generation of Polar Researchers Leadership Symposium (https://dornsife.usc.edu/conferences/2019-nsf-ngpr3/).
 
