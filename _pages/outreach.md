@@ -13,7 +13,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 # Outreach activities
 **2020** The Scots Science Scholars program, a learning community for incoming STEM majors at Maryville College, was recently awared a large grant from the NSF. I helped contribute to the immersive research experience and taught the scholars about environmental geobiological investigations that can be done right on campus! 
-<p style="text-align: center">[<img src='/images/newspic/S3_2020.jpg' style='max-width: 500px'</p><br>
+<p style="text-align: center"><img src='/images/newspic/S3_2020.jpg' style='max-width: 500px' /><br/></p>
 **2020** Due to the Coronavirus, East TN Freedom Schools have gone virtual this summer. Members of 500 Women Scientists are making sure that the young scholars continue to learn and grow their STEM skills at home by recording videos. 
 <br>-[In this one](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing), I extract DNA from strawberries in my new laboratory. <br>
 <p style="text-align: center">[<img src='/images/blogpic/video_grab.png' style='max-width: 500px' />](https://drive.google.com/file/d/1xqYSWqfYVwDANAFalI7qmwe5BrnSzVdi/view?usp=sharing)</p><br>
