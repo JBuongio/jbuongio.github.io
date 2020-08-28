@@ -1,7 +1,7 @@
 - title: "Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment"
   image: Sox.png
   description: The focus of this paper is a member of the Gammaproteobacteria found in marine sediments worldwide named Woeseiales (formerly JTB255). To understand the response to burial within this clade, we used a MAG-centric transcriptomic approach. We discovered that transcripts for a single gene increased by ~1000x upon burial within just the first few cm of sediment, while other gene transcripts decrease. This points to a potential dormancy response without canonical sporulation. Code for analysis and figures can be found on my Github. 
-  authors: J. Buongiorno, F.J. Gomez, D.A. Fike, L.C. Kah
+  authors: J.Buongiorno, K. Sipes, K. Wasmund, A. Loy, K.G. Lloyd
   doi: 10.1371/journal.pone.0234839
   link:
     url: https://doi.org/10.1371/journal.pone.0234839
