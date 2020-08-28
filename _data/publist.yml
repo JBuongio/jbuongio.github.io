@@ -1,3 +1,15 @@
+- title: "Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment"
+  image: Sox.png
+  description: The focus of this paper is a member of the Gammaproteobacteria found in marine sediments worldwide named Woeseiales (formerly JTB255). To understand the response to burial within this clade, we used a MAG-centric transcriptomic approach. We discovered that transcripts for a single gene increased by ~1000x upon burial within just the first few cm of sediment, while other gene transcripts decrease. This points to a potential dormancy response without canonical sporulation. Code for analysis and figures can be found on my Github. 
+  authors: J. Buongiorno, F.J. Gomez, D.A. Fike, L.C. Kah
+  doi: 10.1371/journal.pone.0234839
+  link:
+    url: https://doi.org/10.1371/journal.pone.0234839
+    display: PloS ONE, 2020
+  highlight: 1
+  news2:
+
+
 - title: "Mineralized microbialites as archives of environmental evolution, Laguna Negra, Catamarca Province, Argentina"
   image: thumb-Geobio_cover.jpg
   description: In this paper, we examined isotopic and elemental signatures in carbonate microbialites a.k.a microbially-mediated rocks. The concentric bands inside the rock preserve a time-series of lake evolution. Much like tree rings, these laminations allow reconstruction of lake history through interpretation of paired isotopes of carbon, sedimentary organic matter, and trace metal content. Code for analysis and figures can be found on my Github. 
@@ -8,6 +20,33 @@
     display: Geobiology, 2019
   highlight: 1
   news2:
+
+
+- title: "Exploring Carbon Mineral Systems: Recent Advances in C Mineral Evolution, Mineral Ecology, and Network Analysis"
+  image: Review.jpg
+  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
+  authors: S.M Morrison, J. Buongiorno, R. T. Downs, A. Eleish, P. Fox, D. Giovannelli, J.T. Golden, D.R. Hummer, G. Hystad, L.H.Kellogg, O. Kreylos, S. Krivovichev, C. Liu, A. Merdith, A. Prabhu, J. Ralph, S. Runyon, S. Zahirovic, R.M. Hazen
+  doi: 10.3389/feart.2020.00208
+  link:
+    url: https://doi.org/10.1111/gbi.12327
+    display: Frotiers in Earth Science, 2020
+  highlight: 1
+  news2:  
+  
+
+- title: "Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments."
+  image:
+  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
+  authors: Lloyd, K.G., Bird, J.T., Buongiorno, J., Deas, E., Kevorkian, R., Noordhoek, T., Rosalsky, J., Roy, T. 
+  doi: 10.1128/AEM.00877-20
+  link:
+    url: https://doi.org/10.1128/AEM.00877-20
+    display: Applied and Environmental Microbiology, 2020
+  highlight: 0
+  news2: 
+
+
+
 
 - title: "Complex microbial communities drive iron and sulfur cycling in Arctic fjord sediments"
   image: sediment.jpg
@@ -53,14 +92,5 @@
   highlight: 1
   news2:  
   
-- title: "Visualizing carbon mineral systems: Recent advances in C mineral evolution, mineral ecology, and network analysis"
-  image: Review.jpg
-  description: Data science has a lot to offer to the geoscience community. This paper reviewes the latest developments in mineral ecology using cutting edge visualization techniques, network analysis, and affinity algorithms. When applied to large, public data repositories, these techniques can highlight the emergent properties underlying multidimensional datasets and help make better scientific predictions.
-  authors: S.M Morrison, J. Buongiorno, R. T. Downs, A. Eleish, P. Fox, D. Giovannelli, J.T. Golden, D.R. Hummer, G. Hystad, L.H.Kellogg, O. Kreylos, S. Krivovichev, C. Liu, A. Merdith, A. Prabhu, J. Ralph, S. Runyon, S. Zahirovic, R.M. Hazen
-  doi: 
-  link:
-    url: 
-    display: In Press
-  highlight: 1
-  news2:  
+
   
