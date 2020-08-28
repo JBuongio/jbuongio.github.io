@@ -69,17 +69,7 @@
     display: FEMS Microbiology Ecology, 2017
   highlight: 1
   news2:
-  
-- title: "Draft Genome Sequence of Antarctic Methanogen enriched from Dry Valley Permafrost"
-  image: 
-  description: F
-  authors: J. Buongiorno, J.T. Bird, K.G. Lloyd, T. Vishnivetskaya
-  doi: 10.1128/genomeA.01362-16
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5146446/
-    display: Genome Announcments, 2016
-  highlight: 0
-  news2:
+
   
 - title: "Methanogens in the Antarctic Dry Valley Permafrost"
   image: Methanogen.jpg
