@@ -42,6 +42,8 @@ Agouron Institute
 
 **Publications**
 
+_Under Review_, Flieder M, **Buongiorno J**, Herbold C, Hausmann B, Rattei T, Lloyd K, Loy A, Wasmund K (ISME J) Pre-print:: BioRxiv doi: https://doi.org/10.1101/2020.10.01.322446.
+
 **Buongiorno J.**, Sipes K., Wasmund K., Loy A., Lloyd K.G. (2020) Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment. _PLoS ONE_ 15(8): e0234839. https://doi.org/10.1371/journal.pone.0234839
 
 Morrison S.M., **Buongiorno J.**, Downs R.T., Eleish A., Fox P., Giovannelli D., Golden J.J., Hummer D.R., Hystad G., Kellogg L.H., Kreylos O., Krivovichev S.V., Liu C., Merdith A., Prabhu A., Ralph J., Runyon S.E., Zahirovic S. and Hazen R.M. (2020) Exploring Carbon Mineral Systems: Recent Advances in C Mineral Evolution, Mineral Ecology, and Network Analysis. _Front. Earth Sci._ 8:208. doi: 10.3389/feart.2020.00208
