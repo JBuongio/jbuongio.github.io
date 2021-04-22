@@ -14,7 +14,7 @@ permalink: /teaching/
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
-
+<div class="container">
 {% endif %}
 
 <style>
@@ -24,7 +24,7 @@ permalink: /teaching/
     </style>
     
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well well-lg">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
