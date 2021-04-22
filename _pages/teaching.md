@@ -14,7 +14,7 @@ permalink: /teaching/
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+
 {% endif %}
 
 <style>
