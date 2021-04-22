@@ -1,3 +1,14 @@
+- title: "Effect of tectonic processes on biosphere–geosphere feedbacks across a convergent margin"
+  image: Nat_geosci.png
+  description: By combining geochemistry, isotope measurements, metagenomic sequencing, network analysis, and modeling, we show in this paper that subsurface communities of chemolithoautotrophs in the Costa Rican forearc subsurface biosphere could sequester 1.4 × 109 to 1.4 × 1010 mol of carbon per year, which would decrease estimates of the total carbon delivered to the mantle by 2 to 22%. In addition, we show that tectonic processes influence the community composition observed at the surface, shining a light on an underappreciated geobiochemical phenomenon that drives the co-evolution of the biosphere and the geosphere. 
+  authors: J.Buongiorno, K. Sipes, K. Wasmund, A. Loy, K.G. Lloyd
+  doi: 10.1038/s41561-021-00725-0
+  link:
+    url: https://doi.org/10.1038/s41561-021-00725-0
+    display: Nature Geoscience, 2021
+  highlight: 1
+  news2:
+
 - title: "Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment"
   image: Sox.png
   description: The focus of this paper is a member of the Gammaproteobacteria found in marine sediments worldwide named Woeseiales (formerly JTB255). To understand the response to burial within this clade, we used a MAG-centric transcriptomic approach. We discovered that transcripts for a single gene increased by ~1000x upon burial within just the first few cm of sediment, while other gene transcripts decrease. This points to a potential dormancy response without canonical sporulation. Code for analysis and figures can be found on my Github. 
