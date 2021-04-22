@@ -18,13 +18,13 @@ permalink: /teaching/
 {% endif %}
 
 <style>
-        .well-lg {
+        .well {
             background-color: rgb(255, 228, 255);
         }
     </style>
     
 <div class="col-sm-6 clearfix">
- <div class="well-lg">
+ <div class="well">
   <pubtit>{{ publi.title }}</pub
   tit>
 
