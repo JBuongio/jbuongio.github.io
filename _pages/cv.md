@@ -42,7 +42,9 @@ Agouron Institute
 
 **Publications**
 
-_Under Review_, Flieder M, **Buongiorno J**, Herbold C, Hausmann B, Rattei T, Lloyd K, Loy A, Wasmund K (ISME J) Pre-print:: BioRxiv doi: https://doi.org/10.1101/2020.10.01.322446.
+K. M. Fullerton, M. O. Schrenk, M. Yücel, E. Manini, M. Basili, T. J. Rogers, D. Fattorini, M. Di Carlo, G. d’Errico, F. Regoli, M. Nakagawa, C. Vetriani, F. Smedile, C. Ramírez, H. Miller, S. M. Morrison, **J. Buongiorno**, G. L. Jessen, A. D. Steen, M. Martínez, J. M. de Moor, P. H. Barry, D. Giovannelli & K. G. Lloyd (2021) Effect of tectonic processes on biosphere–geosphere feedbacks across a convergent margin. _Nature Geoscience_ https://doi.org/10.1038/s41561-021-00725-0
+
+_Accepted_, Flieder M, **Buongiorno J**, Herbold C, Hausmann B, Rattei T, Lloyd K, Loy A, Wasmund K (ISME J) Pre-print:: BioRxiv doi: https://doi.org/10.1101/2020.10.01.322446.
 
 **Buongiorno J.**, Sipes K., Wasmund K., Loy A., Lloyd K.G. (2020) Woeseiales transcriptional response to shallow burial in Arctic fjord surface sediment. _PLoS ONE_ 15(8): e0234839. https://doi.org/10.1371/journal.pone.0234839
 
