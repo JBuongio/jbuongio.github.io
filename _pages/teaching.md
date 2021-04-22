@@ -18,14 +18,15 @@ permalink: /teaching/
 {% endif %}
 
 <style>
-        .well {
+        .well-lg {
             background-color: rgb(255, 228, 255);
         }
     </style>
     
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+ <div class="well-lg">
+  <pubtit>{{ publi.title }}</pub
+  tit>
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="70%" style="float: left" />
   
