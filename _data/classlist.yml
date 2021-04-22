@@ -1,3 +1,13 @@
+- title: "EVS301: Earth System Science"
+  image: ESS.png
+  description: This course highlights the interplay among the individual components of the Earth system – the solid Earth, atmosphere, oceans, and biosphere. Modern environmental problems of loss of biodiversity, ocean acidification, and climate warming will be examined through the lens of Earth history, acknowledging that the geological past as a key to the present and future. 
+  link:
+    url: https://www.pearson.com/us/higher-education/program/Kump-Earth-System-The-3rd-Edition/PGM322809.html
+    display: The Earth System by Kump, Casting, and Krane
+  highlight: 1
+  news1: Field work is integrated with traditional micro-scale laboratory work, allowing students to delve into complex environmental interactions through the use of microscopy, incubations, and molecular techniques. 
+  news2: 
+
 - title: "BIO113: Organismal Biology"
   image: axolotl.jpg
   description: This course evaluates life as a feature of Earth, tracing the planetary changes that allowed life to originate, evolve, and diversify. This course asks students to challenge their definition of life and reflect on readings of primary literature. The rise of multicellularity, taxonomic diversity, biochemistry, biogeography, and other biological and ecological concepts will be placed within the framework of the Five Big Ideas of Biology- 
