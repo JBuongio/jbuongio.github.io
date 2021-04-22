@@ -34,7 +34,7 @@ permalink: /teaching/
   <p>{{ publi.authors }} {{ publi.year }}
    <em><a href="{{ publi.link.url }}">{{ publi.link.display }} {{ publi.doi }}</a></em></p>
   
-  <p> *{{ publi.news2 }}*</p>
+  <p> {{ publi.news2 }}</p>
  </div>
 </div>
 
