@@ -38,8 +38,7 @@ div.desc {
   <a target="_blank">
     <img src="{{ site.url }}{{ site.baseurl }}images/classpic/dna.jpeg" alt="BIO349" width="600" height="400">
   </a>
-  <div class="desc" align ="center"><b>BIO349: Bioinformatics</b><p> The advent of next-generation sequencing technology has revolutionized microbiology, enabling transformative breakthroughs in fields ranging from agriculture to conservation to medicine. New methods enable full genome sequencing of microorganisms, and through varied ‘omic techniques, scientists can analyze of millions of short sequences that comprise “big data”. In this course, students will learn about the computational algorithms that underly bioinformatic tools. In the computer-based lab component, students will gain hands-on experience with both web-based and Unix command line bioinformatic tools for sequence searching and alignment, assembly, read mapping, gene calling, and gene annotation. </div>
-</div>
+  <div class="desc" align ="center"><b>BIO349: Bioinformatics</b><p> The advent of next-generation sequencing technology has revolutionized microbiology, enabling transformative breakthroughs in fields ranging from agriculture to conservation to medicine. New methods enable full genome sequencing of microorganisms, and through varied ‘omic techniques, scientists can analyze of millions of short sequences that comprise “big data”. In this course, students will learn about the computational algorithms that underly bioinformatic tools. In the computer-based lab component, students will gain hands-on experience with both web-based and Unix command line bioinformatic tools for sequence searching and alignment, assembly, read mapping, gene calling, and gene annotation. 
 <br>
 
 <div class="gallery">
