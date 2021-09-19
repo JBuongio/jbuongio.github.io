@@ -12,7 +12,7 @@ _Outreach statement: Scientists have a mandate to engage with the public and fos
 
 
 # Outreach activities
-**2021** What a whirlwind of a summer with Freedom Schools! This year, I was able to team up with Dr. Drew Steen at UTK on an NSF-funded project that includes intentional exposure of environmental science to middle and high schools students. This project was crafted to nuture students innate curiosity about nature and provide long-term research learning opportunities for them.
+**2021** What a whirlwind of a summer with Freedom Schools! This year, I was able to team up with Dr. Drew Steen at UTK on an NSF-funded project that includes intentional exposure of environmental science to underserved middle and high schools students. This project was crafted to nuture students' innate curiosity about nature and provide long-term research & learning opportunities for them.
 <p style="text-align: center"><img src='/images/newspic/FS_21.jpeg' style='max-width: 500px' /><br/></p>
 **2020** The Scots Science Scholars program, a learning community for incoming STEM majors at Maryville College, was recently awared a large grant from the NSF. I helped contribute to the immersive research experience and taught the scholars about environmental geobiological investigations that can be done right on campus! 
 <p style="text-align: center"><img src='/images/newspic/S3_2020.jpg' style='max-width: 500px' /><br/></p>
