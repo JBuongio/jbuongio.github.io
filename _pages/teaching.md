@@ -51,13 +51,13 @@ div.desc {
   <p>{{ publi.authors }}. {{ publi.year }}. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
- </div>
+
 
 
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
-</div>
+
 {% endif %}
 
 {% endif %}
@@ -65,7 +65,7 @@ div.desc {
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-</div>
+
 {% endif %}
 
 <p> &nbsp; </p>
