@@ -1,3 +1,12 @@
+- title: "BiO112: Principles of Microbiology"
+  image: Plate.jpg
+  description: An overview of microbiology, with particular emphasis on the role of microbes in human health and disease. Core concepts of evolution, cell structure and function, metabolism, genetics, microbial systems, and the impact of microorganisms on humans will be covered, and competencies in the application of the process of science, and use of quantitative reasoning will be developed. After students master sterile technique and safe laboratory practices, the laboratory portion of the course will focus on the development of microscopy, culture, and bacterial identification techniques.
+  link:
+    url: https://openstax.org/details/books/microbiology
+    display: OpenStax textbook, Microbiology
+  highlight: 1
+  news1: 
+  
 - title: "EVS101: Principles of Environmental Science"
   image: EVS101.jpg
   description: This course provides an introduction to physical and ecological principles, concepts, and methodologies that serve as the foundation of environmental systems and strategies for sustainable management of the earth’s ecosystems. 
