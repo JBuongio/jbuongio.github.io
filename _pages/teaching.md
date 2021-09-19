@@ -24,7 +24,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 300px;
 }
 
 div.gallery:hover {
@@ -33,11 +33,11 @@ div.gallery:hover {
 
 div.gallery img {
   width: 100%;
-  height: auto;
+  height: 500;
 }
 
 div.desc {
-  padding: 15px;
+  padding: 30px;
   text-align: center;
 }
 </style>
@@ -52,7 +52,7 @@ div.desc {
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
-</div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
