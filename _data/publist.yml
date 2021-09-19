@@ -1,13 +1,13 @@
 - title: "Novel taxa of Acidobacteriota implicated in seafloor sulfur cycling"
-  image:
+  image: svalbardensis.png
   description: 
   authors: M. Flieder, J. Buongiorno, C. W. Herbold, B. Hausmann, T. Rattei, K. G. Lloyd, A. Loy, and K. Wasmund.
   doi: https://doi.org/10.1038/s41396-021-00992-0
   link:
     url: https://doi.org/10.1038/s41396-021-00992-0
     display: ISME J, 2021
-  highlight: 0
-  news2:
+  highlight: 1
+  news2: I made a KBase Narrative landing page <a href= 'https://kbase.us/n/97146/7/'> here </a> so you can explore our data and analysis.
 
 
 - title: "Effect of tectonic processes on biosphere–geosphere feedbacks across a convergent margin"
