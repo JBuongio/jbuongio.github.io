@@ -57,7 +57,7 @@ div.desc {
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
-
+</div>
 {% endif %}
 
 {% endif %}
@@ -65,7 +65,7 @@ div.desc {
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
-
+</div>
 {% endif %}
 
 <p> &nbsp; </p>
