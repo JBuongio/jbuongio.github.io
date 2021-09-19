@@ -51,8 +51,8 @@ div.desc {
   <p>{{ publi.authors }}. {{ publi.year }}. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
-
-
+ </div>
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
