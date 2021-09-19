@@ -40,7 +40,7 @@ div.desc {
   </a>
   <div class="desc" align ="center"><b>BIO349: Bioinformatics</b><p> The advent of next-generation sequencing technology has revolutionized microbiology, enabling transformative breakthroughs in fields ranging from agriculture to conservation to medicine. New methods enable full genome sequencing of microorganisms, and through varied ‘omic techniques, scientists can analyze of millions of short sequences that comprise “big data”. In this course, students will learn about the computational algorithms that underly bioinformatic tools. In the computer-based lab component, students will gain hands-on experience with both web-based and Unix command line bioinformatic tools for sequence searching and alignment, assembly, read mapping, gene calling, and gene annotation. </div>
 </div>
-
+<br>
 
 <div class="gallery">
   <a target="_blank">
@@ -49,6 +49,8 @@ div.desc {
   <div class="desc" align ="center"><b>BIO112: Principles of Microbiology </b><p>
   </p>An overview of microbiology, with particular emphasis on the role of microbes in human health and disease. Core concepts of evolution, cell structure and function, metabolism, genetics, microbial systems, and the impact of microorganisms on humans will be covered, and competencies in the application of the process of science, and use of quantitative reasoning will be developed. After students master sterile technique and safe laboratory practices, the laboratory portion of the course will focus on the development of microscopy, culture, and bacterial identification techniques.</div>
 </div>
+<br>
+
 
 <div class="gallery">
   <a target="_blank">
@@ -57,6 +59,8 @@ div.desc {
   <div class="desc" align ="center"><b>EVS101: Principles of Environmental Science</b><p> 
   </p>This course provides an introduction to physical and ecological principles, concepts, and methodologies that serve as the foundation of environmental systems and strategies for sustainable management of the earth’s ecosystems. Through readings and reflections, students are challenged to identify and discuss the multifaceted causes of environmental justice issues and the ways in which we can promote equitible the distribution of healthy environments.</div>
 </div>
+
+<br>
 
 <div class="gallery">
   <a target="_blank">
