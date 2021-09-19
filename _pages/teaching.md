@@ -56,3 +56,20 @@ div.desc {
   <div class="desc"><b>BIO112: Principles of Microbiology </b><p>
   </p>An overview of microbiology, with particular emphasis on the role of microbes in human health and disease. Core concepts of evolution, cell structure and function, metabolism, genetics, microbial systems, and the impact of microorganisms on humans will be covered, and competencies in the application of the process of science, and use of quantitative reasoning will be developed. After students master sterile technique and safe laboratory practices, the laboratory portion of the course will focus on the development of microscopy, culture, and bacterial identification techniques.  
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+
+{% endif %}
+
+<p> &nbsp; </p>
+</body>
+</html>
