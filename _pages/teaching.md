@@ -19,7 +19,7 @@ permalink: /teaching/
 
 <style>
         .well {
-            background-color: rgb();
+            background-color: rgb(178, 190, 200);
         }
     </style>
     
@@ -29,7 +29,7 @@ permalink: /teaching/
   <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }}. </p> 
-  <p style="font-size:170%;">{{ publi.year }}
+  <p style="font-size:100%;">{{ publi.year }}
    <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
