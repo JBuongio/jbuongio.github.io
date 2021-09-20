@@ -8,7 +8,7 @@ permalink: /teaching/
 
 # Teaching
 {% assign number_printed = 0 %}
-{% for publi in site.data.piclist %}
+{% for publi in site.data.classlist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -19,7 +19,7 @@ permalink: /teaching/
 
 <style>
         .well {
-            background-color: rgb(229, 246, 255);
+            background-color: rgb();
         }
     </style>
     
