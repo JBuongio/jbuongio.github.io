@@ -19,12 +19,12 @@ permalink: /teaching/
 
 <style>
         .well {
-            background-color: rgb(178, 190, 200);
+            background-color: rgb(192,192,192);
         }
     </style>
     
-<div class="col-sm-6 clearfix">
- <div class="well">
+<div class="panel panel-default">
+ <div class="panel-body">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/classpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
