@@ -17,7 +17,7 @@ In recent years, the proliferation of anti-science rhetoric has increased substa
 <p align= "justify">
 The answer is simple, yet incredibly difficult: improve science communication. Unfortunately,
 past generations of scientists who have adopted the “guru on a hill” personality helped cultivate the
-widespread misrepresentation of science. Out of this elitist mentality, anti-science rhetoric was borne.
+widespread misrepresentation of science. Out of this elitist mentality, anti-science rhetoric was born.
 Now, the onus falls on us to combat attacks on science and scientists with approachable narratives,
 simple explanations, relatable content, and inclusivity. More and more scientists are stepping up to take
 on the challenge of reshaping the way they communicate science to friends and neighbors. I joined
