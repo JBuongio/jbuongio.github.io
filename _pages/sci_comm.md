@@ -81,7 +81,7 @@ emphasize what you do know. The same tactics should be used when discussing scie
 Be transparent about what do and do not know, and emphasize what we do know. But, remember, you
 cannot change everyone’s mind...<br></p>
 
-<p align = "center"><img src='/images/blogpic/wrestle.png' style="width: 90%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/wrestle.jpg' style="width: 90%; float: center;" /><br/></p>
 
 
 Finally, some general tips to always keep in mind when communicating science:
@@ -99,12 +99,12 @@ keys/coins in your pocket.
 
 ##<center>Lobbying for the National Science Foundation on Capitol Hill
 
-<p align = "center"><img src='/images/blogpic/change.png' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/change.jpg' style="width: 40%; float: center;" /><br/></p>
 <p align= "justify">
 
 I put these skills to work on Capitol Hill to lobby for the National Science Foundation. It is not a secret that very little of the federal budget is allocated to science. In fact, federal spending on research and development is ~ 1% of tax revenue. As you can see in the graphic below, most of our nation’s budget is used for health care and defense.<br></p>
 
-<p align = "center"><img src='/images/blogpic/budget.png' style="width: 70%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/budget.jpg' style="width: 70%; float: center;" /><br/></p>
 
 <p align= "justify">
 Figures like this are only a snapshot that illustrates our nation’s priorities. The sobering truth is
@@ -116,7 +116,7 @@ is the first time in post-World War II history that the majority of basic or fun
 [no longer funded by the government](https://www.sciencemag.org/news/2017/03/data-check-us-government-share-basic-research-funding-falls-below-50). The combination of flattened federal funding trends and increased
 investment in science by private corporations is responsible.<br></p>
 
-<p align = "center"><img src='/images/blogpic/CapitolHill.png' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/CapitolHill.jpg' style="width: 40%; float: center;" /><br/></p>
 
 <p align= "justify">
 To help convince law makers that continued
@@ -166,7 +166,7 @@ communicate OUR science. This is not true. We must own our work, be proud of it,
 
 ## Representative Blackburn (R), then representing the 7th Congressional district of Tennessee (now in senate)
 
-<p align = "center"><img src='/images/blogpic/Blackburn.png' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/Blackburn.jpg' style="width: 40%; float: center;" /><br/></p>
 
 <p align= "justify">
 I joined Mariah from Clarksville to speak with
@@ -176,7 +176,7 @@ Foundation, but we got to meet her outside of her office briefly. Her staffer, E
 
 ## Representative Hice (R), 10th Congressional district of Georgia
 
-<p align = "center"><img src='/images/blogpic/Hice.png' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/Hice.jpg' style="width: 40%; float: center;" /><br/></p>
 <p align= "justify">
 
 Representative Hice took time out of a committee hearing to speak with us in the hallway of the Rayburn building. The constituents from Georgia in our group were particularly concerned about meeting with Hice because of his outspoken stances on social issues. We were all pleasantly surprised when he said that he “could not imagine” that drastic cuts in science
@@ -185,7 +185,7 @@ good news, but we have to keep the pressure on.</p>
 
 ## Senators Corker and Alexander, Tennessee
 
-<p align = "center"><img src='/images/blogpic/senators.png' style="width: 40%; float: center;" /><br/></p>
+<p align = "center"><img src='/images/blogpic/senators.jpg' style="width: 40%; float: center;" /><br/></p>
 <p align= "justify">
 
 While waiting to meet with Senator Corker’s staffer, we were treated to coffee and Pringles (which I
