@@ -101,7 +101,7 @@ As a STEM professional, I believe building my toolkit of allyship is an integral
  
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/safe_zone.png){: style="width: 100%; float: center; border: 3px"} <font size="1">Image credit: Dr. Sarah Tuttle</font><br><br>
 
-I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net), [NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/)..
+I am grateful for past and present funding from the [Deep Carbon Observatory](https://deepcarbon.net), [NASA Astrobiology Institute](www.nasa.gov), [C-DEBI](c-debi.org), the [Explorer's Club](https://www.explorers.org/), the [Society for Sedimentary Geology](https://sepm.org), the [Society for Organic Petrology](https://tsop.org), and the [Geological Society of America](https://www.geosociety.org/).
 
 
 
