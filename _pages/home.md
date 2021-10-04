@@ -112,6 +112,5 @@ I am grateful for past and present funding from the [Deep Carbon Observatory](ht
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SEPM.png" style="width: 90px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSOP.jpg" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GSA.png" style="width: 90px">
-</figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ACA.jpeg" style="width: 90px">
 </figure>
