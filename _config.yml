@@ -69,3 +69,5 @@ footer:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao"
+      
+future: true
