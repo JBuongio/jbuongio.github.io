@@ -12,6 +12,6 @@ permalink: /cv/
 
 <p align="center"><b>Joy Buongiorno</b><br>
 
-502 E. Lamar Alexander Parkway <br> Maryville, TN 37804<br>
+1414 Circle Dr. <br> Knoxville, TN 37996<br>
 
-joy.buongiorno@maryvillecollege.edu</p>
+jbuongior21@gmail.com</p>
