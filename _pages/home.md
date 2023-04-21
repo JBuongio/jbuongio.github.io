@@ -74,7 +74,7 @@ I received my B.Sc. in Biology (2011) from Tennessee Technological University. I
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Nat_Ac.jpg){: style="width: 100%; float: center; border: 20px"} 
 Dr. Karen Lloyd highlights my take on the climate crisis at the National Academies of Science. Details outlined in _Nature_ <a href='https://www.nature.com/articles/d41586-019-01718-1'>here</a>. 
 <br><br><br>
-I am part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony),![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="width:40%;float: right"} which aims to support a resilient, just, and sustainable Arctic in motion. It is paramount that we center the voices of those who are most impacted by climate change and environmental racism.
+I am part of the NSF-funded Arctic Research Coordination Network, ![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="width:40%;float: right"}[Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. It is paramount that we center the voices of those who are most impacted by climate change and environmental racism.
 
 <br>
 <br>
