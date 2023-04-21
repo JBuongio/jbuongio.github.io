@@ -74,9 +74,10 @@ I received my B.Sc. in Biology (2011) from Tennessee Technological University. I
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Nat_Ac.jpg){: style="width: 100%; float: center; border: 20px"} 
 Dr. Karen Lloyd highlights my take on the climate crisis at the National Academies of Science. Details outlined in _Nature_ <a href='https://www.nature.com/articles/d41586-019-01718-1'>here</a>. 
 <br><br><br>
-I am part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. It is paramount that we center the voices of those who are most impacted by climate change and environmental racism.![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="width: 40%; float: right; border: 10px"} 
-<br><br>
-
+I am part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. It is paramount that we center the voices of those who are most impacted by climate change and environmental racism.
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="float: right"}
+<br>
+<br>
 ### Dedication to practicing allyship
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Lab_with_Ari.png){: style="width: 60%; float: Right; border: 5px"}Despite many programs, grants, and workshops aimed at increasing recruitment and retention of people of color in STEM fields, representation of scholars of color is [woefully lacking](https://academic.oup.com/bioscience/article/70/3/237/5714639). Dismantling the centries-old system that allows this to continue requires concerted and unapologetic efforts to decolonize science. This task falls on [administrators](https://www.chronicle.com/article/How-Higher-Ed-Can-Fight/248897?fbclid=IwAR3fxenrOTlDqy_AxFH7I0XqhVagVf2sn1UQ3TirqcOhTidb5RAf2zsQqBQ), [granting agencies](https://www.chronicle.com/article/Black-Scientists-Face-a-Big/248921?cid=wcontentlist_hp_latest), [educators](http://www.ascd.org/publications/newsletters/education-update/oct19/vol61/num10/How-to-Be-an-Antiracist-Educator.aspx), and [professional societies](https://www.ams.org/journals/notices/201802/rnoti-p149.pdf).
