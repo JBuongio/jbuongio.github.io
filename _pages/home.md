@@ -65,16 +65,16 @@ I am a geomicrobiologist and researcher at the University of Tennessee. I am als
   </a>
 </div>
 
-I continue to collaborate on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. I'm also an instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
+I continue to collaborate on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/). I'm also an instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
 
 I received my B.Sc. in Biology (2011) from Tennessee Technological University. I received my M.Sc. in Geoscience (2014) and Ph.D. in Microbiology (2018) from the University of Tennessee, Knoxville. I was a postdoctoral fellow under the co-advisement of Dr. Robert Hazen and Dr. Donato Giovannelli at the [Earth and Planets Laboratory](https://dtm.carnegiescience.edu/) at Carnegie Institution for Science in Washington, DC (2019-2020).
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/jb_suit.png){: style="width: 40%; float: left; border: 5px"} My academic journey may have seemed disjointed -- going from zoology, to geology, to microbiology. Independently, each of these fields do in fact use very different tools and have unique perspectives to offer. My inexhaustible curiously about nature and our place in space drove me to each of these fields. I'm a interdisciplinarian and understand that the marriage of knowledge gained from each discipline leads us to answer bigger questions about our universe than each discipline could answer alone. It is also paramount that we center the voices of those who are most impacted by climate change and environmental racism. 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/jb_suit.png){: style="width: 40%; float: left; border: 5px"} My academic journey may have seemed disjointed -- going from zoology, to geology, to microbiology. Independently, each of these fields do in fact use very different tools and have unique perspectives to offer. My inexhaustible curiously about nature and our place in space drove me to each of these fields. I'm a interdisciplinarian and understand that the marriage of knowledge gained from each discipline leads us to answer bigger questions about our universe than each discipline could answer alone.  
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Nat_Ac.jpg){: style="width: 100%; float: center; border: 20px"} 
 Dr. Karen Lloyd highlights my take on the climate crisis at the National Academies of Science. Details outlined in _Nature_ <a href='https://www.nature.com/articles/d41586-019-01718-1'>here</a>. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="width: 40%; float: right; border: 20px"} 
+I am part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. It is paramount that we center the voices of those who are most impacted by climate change and environmental racism.![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="width: 40%; float: right; border: 20px"} 
 
 <br><br>
 
