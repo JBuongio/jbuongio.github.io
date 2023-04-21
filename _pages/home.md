@@ -76,7 +76,7 @@ Dr. Karen Lloyd highlights my take on the climate crisis at the National Academi
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/quote.png){: style="width: 40%; float: right; border: 20px"} 
 
-
+<br><br>
 I am large supporter of science communication - read my blog post about it <a href= 'https://drive.google.com/file/d/1NwHcnNq77RGNdZxySkAKpYdpQVSd_niB/view?usp=sharing'>here</a>. 
 I believe in open science and the removal of paywalls between science and the people. I try to be as transparent as possible with my research by uploading all of my code, protocols, and data to GitHub and appropriate public data repositories. 
 
