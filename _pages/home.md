@@ -65,7 +65,7 @@ I am a geomicrobiologist and researcher at the University of Tennessee. I am als
   </a>
 </div>
 
-While at Maryville College, I continue to collaborate on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. I'm also an instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
+I continue to collaborate on the NASA Astrobiology Institute [ENIGMA project](https://enigma.rutgers.edu/). I am also part of the NSF-funded Arctic Research Coordination Network, [Migrations in Harmony](https://mailchi.mp/georgetown/migrationinharmony), which aims to support a resilient, just, and sustainable Arctic in motion. I'm also an instructor for the [Bioinformatics Virtual Coordiatation Network](https://biovcnet.github.io/), formed in response to COVID-19 forcing researchers to move their experiments from the lab to the computer. 
 
 I received my B.Sc. in Biology (2011) from Tennessee Technological University. I received my M.Sc. in Geoscience (2014) and Ph.D. in Microbiology (2018) from the University of Tennessee, Knoxville. I was a postdoctoral fellow under the co-advisement of Dr. Robert Hazen and Dr. Donato Giovannelli at the [Earth and Planets Laboratory](https://dtm.carnegiescience.edu/) at Carnegie Institution for Science in Washington, DC (2019-2020).
 
