@@ -49,7 +49,7 @@ I am a geomicrobiologist and researcher at the University of Tennessee. I am als
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Altiplano.jpg" style="width:100%; height: 400px;" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Andes.jpg" style="width:100%; height: 400px;" alt="Slide 8"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chile.jpg" style="width:100%; height: 400px;" alt="Slide 8"  />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DCO_meeting_orig.jpg" style="width:100%; height: 400px;" alt="Slide 9"  />
