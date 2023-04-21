@@ -1,14 +1,16 @@
 ---
-title: "Joy Buongiorno - Publications"
+title: "Joy Buongiorno - Research & Publications"
 layout: gridlay
-excerpt: "Joy Buongiorno -- Publications"
+excerpt: "Joy Buongiorno -- Research & Publications"
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+# Research
+I combine my background in geoscience with a diverse toolkit of novel molecular methods, sequencing analysis, bioinformatics tools, and imaging techniques to delve into the interactions between the biosphere and geosphere that make life thrive in some of the harshest, uninhabitable environments. By combining results from wet-lab and in silico experiments, my work provides a holistic understanding of microbial activity in systems characterized by different geochemical regimes. Clues into how life shaped Earth's environments and vice versa are hypothesized to be written in the DNA of ancient microbial lineages and the rock record. It's my job to uncover these clues, and unlock the secrets to how life can perhaps evolve on other planets. My field sites include the western coast of Svalbard, Antarctic permafrost, hypersaline lakes in the high Andes mountains and hot springs in the Andean Altiplano. 
 
+# Publications
 Jump to the bottom of the page to see a [full list of publications](#full-list) and [Preprints](#preprints). A complete list of papers and conference abstracts is also available in my [Google Scholar](https://scholar.google.com/citations?user=3pa76GEAAAAJ&hl=en&oi=ao) profile.
 
 ## Highlights
