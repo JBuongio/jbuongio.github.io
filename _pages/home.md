@@ -5,7 +5,7 @@ excerpt: "Website of Joy Buongiorno"
 sitemap: false
 permalink: /
 ---
-I am a geomicrobiologist and senior editor of biogeochemistry on the Earth team at <i>Nature Communications</i>. To understand the mutual interactions between microorganisms and their surroundings, my research harnesses the power of an interdisciplinary approach, bridging the divide between the fields of Earth and Life science. This exciting work allows me to investigate the relationships between microorganisms and their environment in some of the most extreme places on Earth, including <a href='https://jbuongio.github.io/Argentina-2019/'>boiling hot springs </a>, energy-starved, deeply buried marine sediments, Arctic sediments, Antarctic permafrost, and high-altitude hypersaline lakes.
+I am a geomicrobiologist and senior editor of biogeochemistry on the Earth team at the Springer Nature journal, <i>Nature Communications</i>. To understand the mutual interactions between microorganisms and their surroundings, my research harnesses the power of an interdisciplinary approach, bridging the divide between the fields of Earth and Life science. This exciting work allows me to investigate the relationships between microorganisms and their environment in some of the most extreme places on Earth, including <a href='https://jbuongio.github.io/Argentina-2019/'>boiling hot springs </a>, energy-starved, deeply buried marine sediments, Arctic sediments, Antarctic permafrost, and high-altitude hypersaline lakes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="12000" data-pause="hover" >
