@@ -12,6 +12,4 @@ permalink: /cv/
 
 <p align="center"><b>Joy Buongiorno</b><br>
 
-1414 Circle Dr. <br> Knoxville, TN 37996<br>
-
 jbuongior21@gmail.com</p>
